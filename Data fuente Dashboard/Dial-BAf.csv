@@ -1,0 +1,1909 @@
+,Año,Trimestre,Provincia,Tipo_Acceso,Accesos,Fecha
+0,2024,1,Buenos Aires,Banda_Ancha_Fija,0.0,2024-01-01
+1,2024,1,Capital Federal,Banda_Ancha_Fija,0.0,2024-01-01
+2,2024,1,Catamarca,Banda_Ancha_Fija,74.932,2024-01-01
+3,2024,1,Chaco,Banda_Ancha_Fija,155.538,2024-01-01
+4,2024,1,Chubut,Banda_Ancha_Fija,169.819,2024-01-01
+5,2024,1,Córdoba,Banda_Ancha_Fija,0.0,2024-01-01
+6,2024,1,Corrientes,Banda_Ancha_Fija,157.891,2024-01-01
+7,2024,1,Entre Ríos,Banda_Ancha_Fija,296.532,2024-01-01
+8,2024,1,Formosa,Banda_Ancha_Fija,62.718,2024-01-01
+9,2024,1,Jujuy,Banda_Ancha_Fija,118.053,2024-01-01
+10,2024,1,La Pampa,Banda_Ancha_Fija,122.033,2024-01-01
+11,2024,1,La Rioja,Banda_Ancha_Fija,87.778,2024-01-01
+12,2024,1,Mendoza,Banda_Ancha_Fija,301.867,2024-01-01
+13,2024,1,Misiones,Banda_Ancha_Fija,202.556,2024-01-01
+14,2024,1,Neuquén,Banda_Ancha_Fija,163.807,2024-01-01
+15,2024,1,Río Negro,Banda_Ancha_Fija,170.504,2024-01-01
+16,2024,1,Salta,Banda_Ancha_Fija,202.856,2024-01-01
+17,2024,1,San Juan,Banda_Ancha_Fija,106.419,2024-01-01
+18,2024,1,San Luis,Banda_Ancha_Fija,155.925,2024-01-01
+19,2024,1,Santa Cruz,Banda_Ancha_Fija,80.021,2024-01-01
+21,2024,1,Santiago Del Estero,Banda_Ancha_Fija,124.36,2024-01-01
+22,2024,1,Tierra Del Fuego,Banda_Ancha_Fija,61.25,2024-01-01
+23,2024,1,Tucumán,Banda_Ancha_Fija,264.568,2024-01-01
+24,2023,4,Buenos Aires,Banda_Ancha_Fija,0.0,2023-10-01
+25,2023,4,Capital Federal,Banda_Ancha_Fija,0.0,2023-10-01
+26,2023,4,Catamarca,Banda_Ancha_Fija,74.586,2023-10-01
+27,2023,4,Chaco,Banda_Ancha_Fija,147.381,2023-10-01
+28,2023,4,Chubut,Banda_Ancha_Fija,169.313,2023-10-01
+29,2023,4,Córdoba,Banda_Ancha_Fija,0.0,2023-10-01
+30,2023,4,Corrientes,Banda_Ancha_Fija,159.469,2023-10-01
+31,2023,4,Entre Ríos,Banda_Ancha_Fija,298.617,2023-10-01
+32,2023,4,Formosa,Banda_Ancha_Fija,62.002,2023-10-01
+33,2023,4,Jujuy,Banda_Ancha_Fija,118.02,2023-10-01
+34,2023,4,La Pampa,Banda_Ancha_Fija,121.164,2023-10-01
+35,2023,4,La Rioja,Banda_Ancha_Fija,87.717,2023-10-01
+36,2023,4,Mendoza,Banda_Ancha_Fija,298.621,2023-10-01
+37,2023,4,Misiones,Banda_Ancha_Fija,200.333,2023-10-01
+38,2023,4,Neuquén,Banda_Ancha_Fija,164.188,2023-10-01
+39,2023,4,Río Negro,Banda_Ancha_Fija,167.902,2023-10-01
+40,2023,4,Salta,Banda_Ancha_Fija,204.727,2023-10-01
+41,2023,4,San Juan,Banda_Ancha_Fija,102.963,2023-10-01
+42,2023,4,San Luis,Banda_Ancha_Fija,154.52,2023-10-01
+43,2023,4,Santa Cruz,Banda_Ancha_Fija,86.844,2023-10-01
+45,2023,4,Santiago Del Estero,Banda_Ancha_Fija,123.228,2023-10-01
+46,2023,4,Tierra Del Fuego,Banda_Ancha_Fija,61.294,2023-10-01
+47,2023,4,Tucumán,Banda_Ancha_Fija,266.308,2023-10-01
+48,2023,3,Buenos Aires,Banda_Ancha_Fija,0.0,2023-07-01
+49,2023,3,Capital Federal,Banda_Ancha_Fija,0.0,2023-07-01
+50,2023,3,Catamarca,Banda_Ancha_Fija,74.354,2023-07-01
+51,2023,3,Chaco,Banda_Ancha_Fija,142.141,2023-07-01
+52,2023,3,Chubut,Banda_Ancha_Fija,167.211,2023-07-01
+53,2023,3,Córdoba,Banda_Ancha_Fija,0.0,2023-07-01
+54,2023,3,Corrientes,Banda_Ancha_Fija,159.826,2023-07-01
+55,2023,3,Entre Ríos,Banda_Ancha_Fija,293.273,2023-07-01
+56,2023,3,Formosa,Banda_Ancha_Fija,61.314,2023-07-01
+57,2023,3,Jujuy,Banda_Ancha_Fija,117.377,2023-07-01
+58,2023,3,La Pampa,Banda_Ancha_Fija,119.759,2023-07-01
+59,2023,3,La Rioja,Banda_Ancha_Fija,87.697,2023-07-01
+60,2023,3,Mendoza,Banda_Ancha_Fija,297.292,2023-07-01
+61,2023,3,Misiones,Banda_Ancha_Fija,197.135,2023-07-01
+62,2023,3,Neuquén,Banda_Ancha_Fija,163.834,2023-07-01
+63,2023,3,Río Negro,Banda_Ancha_Fija,162.97,2023-07-01
+64,2023,3,Salta,Banda_Ancha_Fija,206.228,2023-07-01
+65,2023,3,San Juan,Banda_Ancha_Fija,103.483,2023-07-01
+66,2023,3,San Luis,Banda_Ancha_Fija,148.751,2023-07-01
+67,2023,3,Santa Cruz,Banda_Ancha_Fija,47.8,2023-07-01
+69,2023,3,Santiago Del Estero,Banda_Ancha_Fija,121.926,2023-07-01
+70,2023,3,Tierra Del Fuego,Banda_Ancha_Fija,58.426,2023-07-01
+71,2023,3,Tucumán,Banda_Ancha_Fija,266.53,2023-07-01
+72,2023,2,Buenos Aires,Banda_Ancha_Fija,0.0,2023-04-01
+73,2023,2,Capital Federal,Banda_Ancha_Fija,0.0,2023-04-01
+74,2023,2,Catamarca,Banda_Ancha_Fija,72.989,2023-04-01
+75,2023,2,Chaco,Banda_Ancha_Fija,141.85,2023-04-01
+76,2023,2,Chubut,Banda_Ancha_Fija,163.078,2023-04-01
+77,2023,2,Córdoba,Banda_Ancha_Fija,0.0,2023-04-01
+78,2023,2,Corrientes,Banda_Ancha_Fija,158.29,2023-04-01
+79,2023,2,Entre Ríos,Banda_Ancha_Fija,273.927,2023-04-01
+80,2023,2,Formosa,Banda_Ancha_Fija,60.35,2023-04-01
+81,2023,2,Jujuy,Banda_Ancha_Fija,117.442,2023-04-01
+82,2023,2,La Pampa,Banda_Ancha_Fija,118.744,2023-04-01
+83,2023,2,La Rioja,Banda_Ancha_Fija,86.968,2023-04-01
+84,2023,2,Mendoza,Banda_Ancha_Fija,296.921,2023-04-01
+85,2023,2,Misiones,Banda_Ancha_Fija,195.471,2023-04-01
+86,2023,2,Neuquén,Banda_Ancha_Fija,161.289,2023-04-01
+87,2023,2,Río Negro,Banda_Ancha_Fija,162.848,2023-04-01
+88,2023,2,Salta,Banda_Ancha_Fija,205.323,2023-04-01
+89,2023,2,San Juan,Banda_Ancha_Fija,97.189,2023-04-01
+90,2023,2,San Luis,Banda_Ancha_Fija,140.575,2023-04-01
+91,2023,2,Santa Cruz,Banda_Ancha_Fija,48.41,2023-04-01
+93,2023,2,Santiago Del Estero,Banda_Ancha_Fija,117.807,2023-04-01
+94,2023,2,Tierra Del Fuego,Banda_Ancha_Fija,58.325,2023-04-01
+95,2023,2,Tucumán,Banda_Ancha_Fija,263.573,2023-04-01
+96,2023,1,Buenos Aires,Banda_Ancha_Fija,0.0,2023-01-01
+97,2023,1,Capital Federal,Banda_Ancha_Fija,0.0,2023-01-01
+98,2023,1,Catamarca,Banda_Ancha_Fija,71.491,2023-01-01
+99,2023,1,Chaco,Banda_Ancha_Fija,142.437,2023-01-01
+100,2023,1,Chubut,Banda_Ancha_Fija,169.149,2023-01-01
+101,2023,1,Córdoba,Banda_Ancha_Fija,0.0,2023-01-01
+102,2023,1,Corrientes,Banda_Ancha_Fija,157.016,2023-01-01
+103,2023,1,Entre Ríos,Banda_Ancha_Fija,274.856,2023-01-01
+104,2023,1,Formosa,Banda_Ancha_Fija,60.985,2023-01-01
+105,2023,1,Jujuy,Banda_Ancha_Fija,117.981,2023-01-01
+106,2023,1,La Pampa,Banda_Ancha_Fija,116.333,2023-01-01
+107,2023,1,La Rioja,Banda_Ancha_Fija,86.401,2023-01-01
+108,2023,1,Mendoza,Banda_Ancha_Fija,292.242,2023-01-01
+109,2023,1,Misiones,Banda_Ancha_Fija,190.685,2023-01-01
+110,2023,1,Neuquén,Banda_Ancha_Fija,159.944,2023-01-01
+111,2023,1,Río Negro,Banda_Ancha_Fija,163.783,2023-01-01
+112,2023,1,Salta,Banda_Ancha_Fija,205.421,2023-01-01
+113,2023,1,San Juan,Banda_Ancha_Fija,101.486,2023-01-01
+114,2023,1,San Luis,Banda_Ancha_Fija,135.281,2023-01-01
+115,2023,1,Santa Cruz,Banda_Ancha_Fija,50.163,2023-01-01
+117,2023,1,Santiago Del Estero,Banda_Ancha_Fija,118.553,2023-01-01
+118,2023,1,Tierra Del Fuego,Banda_Ancha_Fija,56.801,2023-01-01
+119,2023,1,Tucumán,Banda_Ancha_Fija,261.07,2023-01-01
+120,2022,4,Buenos Aires,Banda_Ancha_Fija,0.0,2022-10-01
+121,2022,4,Capital Federal,Banda_Ancha_Fija,0.0,2022-10-01
+122,2022,4,Catamarca,Banda_Ancha_Fija,70.908,2022-10-01
+123,2022,4,Chaco,Banda_Ancha_Fija,143.658,2022-10-01
+124,2022,4,Chubut,Banda_Ancha_Fija,167.855,2022-10-01
+125,2022,4,Córdoba,Banda_Ancha_Fija,0.0,2022-10-01
+126,2022,4,Corrientes,Banda_Ancha_Fija,155.449,2022-10-01
+127,2022,4,Entre Ríos,Banda_Ancha_Fija,270.952,2022-10-01
+128,2022,4,Formosa,Banda_Ancha_Fija,61.84,2022-10-01
+129,2022,4,Jujuy,Banda_Ancha_Fija,118.218,2022-10-01
+130,2022,4,La Pampa,Banda_Ancha_Fija,113.993,2022-10-01
+131,2022,4,La Rioja,Banda_Ancha_Fija,86.258,2022-10-01
+132,2022,4,Mendoza,Banda_Ancha_Fija,291.327,2022-10-01
+133,2022,4,Misiones,Banda_Ancha_Fija,186.269,2022-10-01
+134,2022,4,Neuquén,Banda_Ancha_Fija,159.712,2022-10-01
+135,2022,4,Río Negro,Banda_Ancha_Fija,161.544,2022-10-01
+136,2022,4,Salta,Banda_Ancha_Fija,205.855,2022-10-01
+137,2022,4,San Juan,Banda_Ancha_Fija,103.545,2022-10-01
+138,2022,4,San Luis,Banda_Ancha_Fija,135.028,2022-10-01
+139,2022,4,Santa Cruz,Banda_Ancha_Fija,50.005,2022-10-01
+141,2022,4,Santiago Del Estero,Banda_Ancha_Fija,119.492,2022-10-01
+142,2022,4,Tierra Del Fuego,Banda_Ancha_Fija,54.948,2022-10-01
+143,2022,4,Tucumán,Banda_Ancha_Fija,263.392,2022-10-01
+144,2022,3,Buenos Aires,Banda_Ancha_Fija,0.0,2022-07-01
+145,2022,3,Capital Federal,Banda_Ancha_Fija,0.0,2022-07-01
+146,2022,3,Catamarca,Banda_Ancha_Fija,70.292,2022-07-01
+147,2022,3,Chaco,Banda_Ancha_Fija,144.141,2022-07-01
+148,2022,3,Chubut,Banda_Ancha_Fija,164.874,2022-07-01
+149,2022,3,Córdoba,Banda_Ancha_Fija,0.0,2022-07-01
+150,2022,3,Corrientes,Banda_Ancha_Fija,144.842,2022-07-01
+151,2022,3,Entre Ríos,Banda_Ancha_Fija,268.937,2022-07-01
+152,2022,3,Formosa,Banda_Ancha_Fija,68.537,2022-07-01
+153,2022,3,Jujuy,Banda_Ancha_Fija,118.823,2022-07-01
+154,2022,3,La Pampa,Banda_Ancha_Fija,115.921,2022-07-01
+155,2022,3,La Rioja,Banda_Ancha_Fija,86.86,2022-07-01
+156,2022,3,Mendoza,Banda_Ancha_Fija,288.746,2022-07-01
+157,2022,3,Misiones,Banda_Ancha_Fija,182.157,2022-07-01
+158,2022,3,Neuquén,Banda_Ancha_Fija,162.693,2022-07-01
+159,2022,3,Río Negro,Banda_Ancha_Fija,160.01,2022-07-01
+160,2022,3,Salta,Banda_Ancha_Fija,204.536,2022-07-01
+161,2022,3,San Juan,Banda_Ancha_Fija,103.118,2022-07-01
+162,2022,3,San Luis,Banda_Ancha_Fija,121.888,2022-07-01
+163,2022,3,Santa Cruz,Banda_Ancha_Fija,49.312,2022-07-01
+165,2022,3,Santiago Del Estero,Banda_Ancha_Fija,119.03,2022-07-01
+166,2022,3,Tierra Del Fuego,Banda_Ancha_Fija,53.584,2022-07-01
+167,2022,3,Tucumán,Banda_Ancha_Fija,263.087,2022-07-01
+168,2022,2,Buenos Aires,Banda_Ancha_Fija,0.0,2022-04-01
+169,2022,2,Capital Federal,Banda_Ancha_Fija,0.0,2022-04-01
+170,2022,2,Catamarca,Banda_Ancha_Fija,67.007,2022-04-01
+171,2022,2,Chaco,Banda_Ancha_Fija,143.559,2022-04-01
+172,2022,2,Chubut,Banda_Ancha_Fija,161.901,2022-04-01
+173,2022,2,Córdoba,Banda_Ancha_Fija,0.0,2022-04-01
+174,2022,2,Corrientes,Banda_Ancha_Fija,144.993,2022-04-01
+175,2022,2,Entre Ríos,Banda_Ancha_Fija,269.33,2022-04-01
+176,2022,2,Formosa,Banda_Ancha_Fija,67.881,2022-04-01
+177,2022,2,Jujuy,Banda_Ancha_Fija,115.314,2022-04-01
+178,2022,2,La Pampa,Banda_Ancha_Fija,111.356,2022-04-01
+179,2022,2,La Rioja,Banda_Ancha_Fija,86.026,2022-04-01
+180,2022,2,Mendoza,Banda_Ancha_Fija,278.785,2022-04-01
+181,2022,2,Misiones,Banda_Ancha_Fija,178.813,2022-04-01
+182,2022,2,Neuquén,Banda_Ancha_Fija,161.5,2022-04-01
+183,2022,2,Río Negro,Banda_Ancha_Fija,159.216,2022-04-01
+184,2022,2,Salta,Banda_Ancha_Fija,203.172,2022-04-01
+185,2022,2,San Juan,Banda_Ancha_Fija,100.126,2022-04-01
+186,2022,2,San Luis,Banda_Ancha_Fija,121.559,2022-04-01
+187,2022,2,Santa Cruz,Banda_Ancha_Fija,48.987,2022-04-01
+189,2022,2,Santiago Del Estero,Banda_Ancha_Fija,118.042,2022-04-01
+190,2022,2,Tierra Del Fuego,Banda_Ancha_Fija,53.458,2022-04-01
+191,2022,2,Tucumán,Banda_Ancha_Fija,254.497,2022-04-01
+192,2022,1,Buenos Aires,Banda_Ancha_Fija,0.0,2022-01-01
+193,2022,1,Capital Federal,Banda_Ancha_Fija,0.0,2022-01-01
+194,2022,1,Catamarca,Banda_Ancha_Fija,62.377,2022-01-01
+195,2022,1,Chaco,Banda_Ancha_Fija,144.114,2022-01-01
+196,2022,1,Chubut,Banda_Ancha_Fija,170.701,2022-01-01
+197,2022,1,Córdoba,Banda_Ancha_Fija,0.0,2022-01-01
+198,2022,1,Corrientes,Banda_Ancha_Fija,142.574,2022-01-01
+199,2022,1,Entre Ríos,Banda_Ancha_Fija,267.904,2022-01-01
+200,2022,1,Formosa,Banda_Ancha_Fija,54.548,2022-01-01
+201,2022,1,Jujuy,Banda_Ancha_Fija,116.509,2022-01-01
+202,2022,1,La Pampa,Banda_Ancha_Fija,109.56,2022-01-01
+203,2022,1,La Rioja,Banda_Ancha_Fija,84.299,2022-01-01
+204,2022,1,Mendoza,Banda_Ancha_Fija,274.399,2022-01-01
+205,2022,1,Misiones,Banda_Ancha_Fija,171.508,2022-01-01
+206,2022,1,Neuquén,Banda_Ancha_Fija,149.208,2022-01-01
+207,2022,1,Río Negro,Banda_Ancha_Fija,156.821,2022-01-01
+208,2022,1,Salta,Banda_Ancha_Fija,197.51,2022-01-01
+209,2022,1,San Juan,Banda_Ancha_Fija,87.888,2022-01-01
+210,2022,1,San Luis,Banda_Ancha_Fija,119.659,2022-01-01
+211,2022,1,Santa Cruz,Banda_Ancha_Fija,48.898,2022-01-01
+213,2022,1,Santiago Del Estero,Banda_Ancha_Fija,116.459,2022-01-01
+214,2022,1,Tierra Del Fuego,Banda_Ancha_Fija,52.298,2022-01-01
+215,2022,1,Tucumán,Banda_Ancha_Fija,245.554,2022-01-01
+216,2021,4,Buenos Aires,Banda_Ancha_Fija,0.0,2021-10-01
+217,2021,4,Capital Federal,Banda_Ancha_Fija,0.0,2021-10-01
+218,2021,4,Catamarca,Banda_Ancha_Fija,59.089,2021-10-01
+219,2021,4,Chaco,Banda_Ancha_Fija,143.74,2021-10-01
+220,2021,4,Chubut,Banda_Ancha_Fija,159.364,2021-10-01
+222,2021,4,Corrientes,Banda_Ancha_Fija,135.908,2021-10-01
+223,2021,4,Entre Ríos,Banda_Ancha_Fija,265.024,2021-10-01
+224,2021,4,Formosa,Banda_Ancha_Fija,53.663,2021-10-01
+225,2021,4,Jujuy,Banda_Ancha_Fija,113.915,2021-10-01
+226,2021,4,La Pampa,Banda_Ancha_Fija,106.834,2021-10-01
+227,2021,4,La Rioja,Banda_Ancha_Fija,83.124,2021-10-01
+228,2021,4,Mendoza,Banda_Ancha_Fija,266.783,2021-10-01
+229,2021,4,Misiones,Banda_Ancha_Fija,171.132,2021-10-01
+230,2021,4,Neuquén,Banda_Ancha_Fija,146.989,2021-10-01
+231,2021,4,Río Negro,Banda_Ancha_Fija,153.189,2021-10-01
+232,2021,4,Salta,Banda_Ancha_Fija,199.399,2021-10-01
+233,2021,4,San Juan,Banda_Ancha_Fija,79.667,2021-10-01
+234,2021,4,San Luis,Banda_Ancha_Fija,118.662,2021-10-01
+235,2021,4,Santa Cruz,Banda_Ancha_Fija,48.276,2021-10-01
+237,2021,4,Santiago Del Estero,Banda_Ancha_Fija,115.859,2021-10-01
+238,2021,4,Tierra Del Fuego,Banda_Ancha_Fija,52.042,2021-10-01
+239,2021,4,Tucumán,Banda_Ancha_Fija,238.609,2021-10-01
+240,2021,3,Buenos Aires,Banda_Ancha_Fija,0.0,2021-07-01
+241,2021,3,Capital Federal,Banda_Ancha_Fija,0.0,2021-07-01
+242,2021,3,Catamarca,Banda_Ancha_Fija,56.253,2021-07-01
+243,2021,3,Chaco,Banda_Ancha_Fija,139.868,2021-07-01
+244,2021,3,Chubut,Banda_Ancha_Fija,155.266,2021-07-01
+246,2021,3,Corrientes,Banda_Ancha_Fija,133.816,2021-07-01
+247,2021,3,Entre Ríos,Banda_Ancha_Fija,260.36,2021-07-01
+248,2021,3,Formosa,Banda_Ancha_Fija,52.795,2021-07-01
+249,2021,3,Jujuy,Banda_Ancha_Fija,111.158,2021-07-01
+250,2021,3,La Pampa,Banda_Ancha_Fija,100.371,2021-07-01
+251,2021,3,La Rioja,Banda_Ancha_Fija,82.157,2021-07-01
+252,2021,3,Mendoza,Banda_Ancha_Fija,255.32,2021-07-01
+253,2021,3,Misiones,Banda_Ancha_Fija,158.528,2021-07-01
+254,2021,3,Neuquén,Banda_Ancha_Fija,139.436,2021-07-01
+255,2021,3,Río Negro,Banda_Ancha_Fija,144.084,2021-07-01
+256,2021,3,Salta,Banda_Ancha_Fija,195.831,2021-07-01
+257,2021,3,San Juan,Banda_Ancha_Fija,79.227,2021-07-01
+258,2021,3,San Luis,Banda_Ancha_Fija,117.716,2021-07-01
+259,2021,3,Santa Cruz,Banda_Ancha_Fija,48.779,2021-07-01
+261,2021,3,Santiago Del Estero,Banda_Ancha_Fija,115.457,2021-07-01
+262,2021,3,Tierra Del Fuego,Banda_Ancha_Fija,49.934,2021-07-01
+263,2021,3,Tucumán,Banda_Ancha_Fija,232.447,2021-07-01
+264,2021,2,Buenos Aires,Banda_Ancha_Fija,0.0,2021-04-01
+265,2021,2,Capital Federal,Banda_Ancha_Fija,0.0,2021-04-01
+266,2021,2,Catamarca,Banda_Ancha_Fija,55.743,2021-04-01
+267,2021,2,Chaco,Banda_Ancha_Fija,140.726,2021-04-01
+268,2021,2,Chubut,Banda_Ancha_Fija,138.412,2021-04-01
+270,2021,2,Corrientes,Banda_Ancha_Fija,129.498,2021-04-01
+271,2021,2,Entre Ríos,Banda_Ancha_Fija,257.617,2021-04-01
+272,2021,2,Formosa,Banda_Ancha_Fija,51.551,2021-04-01
+273,2021,2,Jujuy,Banda_Ancha_Fija,111.848,2021-04-01
+274,2021,2,La Pampa,Banda_Ancha_Fija,97.551,2021-04-01
+275,2021,2,La Rioja,Banda_Ancha_Fija,81.599,2021-04-01
+276,2021,2,Mendoza,Banda_Ancha_Fija,229.052,2021-04-01
+277,2021,2,Misiones,Banda_Ancha_Fija,156.176,2021-04-01
+278,2021,2,Neuquén,Banda_Ancha_Fija,137.877,2021-04-01
+279,2021,2,Río Negro,Banda_Ancha_Fija,143.583,2021-04-01
+280,2021,2,Salta,Banda_Ancha_Fija,191.637,2021-04-01
+281,2021,2,San Juan,Banda_Ancha_Fija,78.677,2021-04-01
+282,2021,2,San Luis,Banda_Ancha_Fija,122.67,2021-04-01
+283,2021,2,Santa Cruz,Banda_Ancha_Fija,48.785,2021-04-01
+285,2021,2,Santiago Del Estero,Banda_Ancha_Fija,114.089,2021-04-01
+286,2021,2,Tierra Del Fuego,Banda_Ancha_Fija,35.404,2021-04-01
+287,2021,2,Tucumán,Banda_Ancha_Fija,233.026,2021-04-01
+288,2021,1,Buenos Aires,Banda_Ancha_Fija,0.0,2021-01-01
+289,2021,1,Capital Federal,Banda_Ancha_Fija,0.0,2021-01-01
+290,2021,1,Catamarca,Banda_Ancha_Fija,51.967,2021-01-01
+291,2021,1,Chaco,Banda_Ancha_Fija,139.767,2021-01-01
+292,2021,1,Chubut,Banda_Ancha_Fija,131.515,2021-01-01
+294,2021,1,Corrientes,Banda_Ancha_Fija,126.622,2021-01-01
+295,2021,1,Entre Ríos,Banda_Ancha_Fija,251.95,2021-01-01
+296,2021,1,Formosa,Banda_Ancha_Fija,50.686,2021-01-01
+297,2021,1,Jujuy,Banda_Ancha_Fija,110.456,2021-01-01
+298,2021,1,La Pampa,Banda_Ancha_Fija,96.989,2021-01-01
+299,2021,1,La Rioja,Banda_Ancha_Fija,52.625,2021-01-01
+300,2021,1,Mendoza,Banda_Ancha_Fija,218.308,2021-01-01
+301,2021,1,Misiones,Banda_Ancha_Fija,149.387,2021-01-01
+302,2021,1,Neuquén,Banda_Ancha_Fija,132.862,2021-01-01
+303,2021,1,Río Negro,Banda_Ancha_Fija,140.667,2021-01-01
+304,2021,1,Salta,Banda_Ancha_Fija,187.572,2021-01-01
+305,2021,1,San Juan,Banda_Ancha_Fija,78.011,2021-01-01
+306,2021,1,San Luis,Banda_Ancha_Fija,119.006,2021-01-01
+307,2021,1,Santa Cruz,Banda_Ancha_Fija,45.868,2021-01-01
+309,2021,1,Santiago Del Estero,Banda_Ancha_Fija,111.64,2021-01-01
+310,2021,1,Tierra Del Fuego,Banda_Ancha_Fija,40.133,2021-01-01
+311,2021,1,Tucumán,Banda_Ancha_Fija,231.89,2021-01-01
+312,2020,4,Buenos Aires,Banda_Ancha_Fija,0.0,2020-10-01
+313,2020,4,Capital Federal,Banda_Ancha_Fija,0.0,2020-10-01
+314,2020,4,Catamarca,Banda_Ancha_Fija,52.395,2020-10-01
+315,2020,4,Chaco,Banda_Ancha_Fija,139.088,2020-10-01
+316,2020,4,Chubut,Banda_Ancha_Fija,129.749,2020-10-01
+318,2020,4,Corrientes,Banda_Ancha_Fija,125.656,2020-10-01
+319,2020,4,Entre Ríos,Banda_Ancha_Fija,247.368,2020-10-01
+320,2020,4,Formosa,Banda_Ancha_Fija,50.206,2020-10-01
+321,2020,4,Jujuy,Banda_Ancha_Fija,105.851,2020-10-01
+322,2020,4,La Pampa,Banda_Ancha_Fija,96.779,2020-10-01
+323,2020,4,La Rioja,Banda_Ancha_Fija,52.775,2020-10-01
+324,2020,4,Mendoza,Banda_Ancha_Fija,214.838,2020-10-01
+325,2020,4,Misiones,Banda_Ancha_Fija,147.161,2020-10-01
+326,2020,4,Neuquén,Banda_Ancha_Fija,132.762,2020-10-01
+327,2020,4,Río Negro,Banda_Ancha_Fija,140.709,2020-10-01
+328,2020,4,Salta,Banda_Ancha_Fija,187.388,2020-10-01
+329,2020,4,San Juan,Banda_Ancha_Fija,72.34,2020-10-01
+330,2020,4,San Luis,Banda_Ancha_Fija,119.287,2020-10-01
+331,2020,4,Santa Cruz,Banda_Ancha_Fija,40.477,2020-10-01
+333,2020,4,Santiago Del Estero,Banda_Ancha_Fija,106.668,2020-10-01
+334,2020,4,Tierra Del Fuego,Banda_Ancha_Fija,39.325,2020-10-01
+335,2020,4,Tucumán,Banda_Ancha_Fija,231.067,2020-10-01
+336,2020,3,Buenos Aires,Banda_Ancha_Fija,0.0,2020-07-01
+337,2020,3,Capital Federal,Banda_Ancha_Fija,0.0,2020-07-01
+338,2020,3,Catamarca,Banda_Ancha_Fija,49.903,2020-07-01
+339,2020,3,Chaco,Banda_Ancha_Fija,133.951,2020-07-01
+340,2020,3,Chubut,Banda_Ancha_Fija,129.202,2020-07-01
+342,2020,3,Corrientes,Banda_Ancha_Fija,123.388,2020-07-01
+343,2020,3,Entre Ríos,Banda_Ancha_Fija,241.482,2020-07-01
+344,2020,3,Formosa,Banda_Ancha_Fija,49.209,2020-07-01
+345,2020,3,Jujuy,Banda_Ancha_Fija,106.728,2020-07-01
+346,2020,3,La Pampa,Banda_Ancha_Fija,93.619,2020-07-01
+347,2020,3,La Rioja,Banda_Ancha_Fija,52.613,2020-07-01
+348,2020,3,Mendoza,Banda_Ancha_Fija,207.173,2020-07-01
+349,2020,3,Misiones,Banda_Ancha_Fija,143.186,2020-07-01
+350,2020,3,Neuquén,Banda_Ancha_Fija,128.862,2020-07-01
+351,2020,3,Río Negro,Banda_Ancha_Fija,130.966,2020-07-01
+352,2020,3,Salta,Banda_Ancha_Fija,180.844,2020-07-01
+353,2020,3,San Juan,Banda_Ancha_Fija,77.071,2020-07-01
+354,2020,3,San Luis,Banda_Ancha_Fija,116.417,2020-07-01
+355,2020,3,Santa Cruz,Banda_Ancha_Fija,39.084,2020-07-01
+357,2020,3,Santiago Del Estero,Banda_Ancha_Fija,105.491,2020-07-01
+358,2020,3,Tierra Del Fuego,Banda_Ancha_Fija,39.366,2020-07-01
+359,2020,3,Tucumán,Banda_Ancha_Fija,223.854,2020-07-01
+360,2020,2,Buenos Aires,Banda_Ancha_Fija,0.0,2020-04-01
+361,2020,2,Capital Federal,Banda_Ancha_Fija,0.0,2020-04-01
+362,2020,2,Catamarca,Banda_Ancha_Fija,47.975,2020-04-01
+363,2020,2,Chaco,Banda_Ancha_Fija,128.129,2020-04-01
+364,2020,2,Chubut,Banda_Ancha_Fija,107.831,2020-04-01
+366,2020,2,Corrientes,Banda_Ancha_Fija,118.863,2020-04-01
+367,2020,2,Entre Ríos,Banda_Ancha_Fija,234.1,2020-04-01
+368,2020,2,Formosa,Banda_Ancha_Fija,47.932,2020-04-01
+369,2020,2,Jujuy,Banda_Ancha_Fija,94.316,2020-04-01
+370,2020,2,La Pampa,Banda_Ancha_Fija,89.693,2020-04-01
+371,2020,2,La Rioja,Banda_Ancha_Fija,52.152,2020-04-01
+372,2020,2,Mendoza,Banda_Ancha_Fija,200.569,2020-04-01
+373,2020,2,Misiones,Banda_Ancha_Fija,140.34,2020-04-01
+374,2020,2,Neuquén,Banda_Ancha_Fija,125.799,2020-04-01
+375,2020,2,Río Negro,Banda_Ancha_Fija,128.985,2020-04-01
+376,2020,2,Salta,Banda_Ancha_Fija,177.76,2020-04-01
+377,2020,2,San Juan,Banda_Ancha_Fija,69.521,2020-04-01
+378,2020,2,San Luis,Banda_Ancha_Fija,113.804,2020-04-01
+379,2020,2,Santa Cruz,Banda_Ancha_Fija,38.672,2020-04-01
+381,2020,2,Santiago Del Estero,Banda_Ancha_Fija,105.446,2020-04-01
+382,2020,2,Tierra Del Fuego,Banda_Ancha_Fija,38.9,2020-04-01
+383,2020,2,Tucumán,Banda_Ancha_Fija,217.134,2020-04-01
+384,2020,1,Buenos Aires,Banda_Ancha_Fija,0.0,2020-01-01
+385,2020,1,Capital Federal,Banda_Ancha_Fija,0.0,2020-01-01
+386,2020,1,Catamarca,Banda_Ancha_Fija,39.634,2020-01-01
+387,2020,1,Chaco,Banda_Ancha_Fija,120.274,2020-01-01
+388,2020,1,Chubut,Banda_Ancha_Fija,95.938,2020-01-01
+390,2020,1,Corrientes,Banda_Ancha_Fija,113.967,2020-01-01
+391,2020,1,Entre Ríos,Banda_Ancha_Fija,231.833,2020-01-01
+392,2020,1,Formosa,Banda_Ancha_Fija,46.434,2020-01-01
+393,2020,1,Jujuy,Banda_Ancha_Fija,91.665,2020-01-01
+394,2020,1,La Pampa,Banda_Ancha_Fija,89.11,2020-01-01
+395,2020,1,La Rioja,Banda_Ancha_Fija,48.337,2020-01-01
+396,2020,1,Mendoza,Banda_Ancha_Fija,182.837,2020-01-01
+397,2020,1,Misiones,Banda_Ancha_Fija,133.552,2020-01-01
+398,2020,1,Neuquén,Banda_Ancha_Fija,121.354,2020-01-01
+399,2020,1,Río Negro,Banda_Ancha_Fija,125.699,2020-01-01
+400,2020,1,Salta,Banda_Ancha_Fija,170.379,2020-01-01
+401,2020,1,San Juan,Banda_Ancha_Fija,63.975,2020-01-01
+402,2020,1,San Luis,Banda_Ancha_Fija,110.404,2020-01-01
+403,2020,1,Santa Cruz,Banda_Ancha_Fija,38.625,2020-01-01
+405,2020,1,Santiago Del Estero,Banda_Ancha_Fija,102.754,2020-01-01
+406,2020,1,Tierra Del Fuego,Banda_Ancha_Fija,38.505,2020-01-01
+407,2020,1,Tucumán,Banda_Ancha_Fija,200.045,2020-01-01
+408,2019,4,Buenos Aires,Banda_Ancha_Fija,0.0,2019-10-01
+409,2019,4,Capital Federal,Banda_Ancha_Fija,0.0,2019-10-01
+410,2019,4,Catamarca,Banda_Ancha_Fija,38.31,2019-10-01
+411,2019,4,Chaco,Banda_Ancha_Fija,117.9,2019-10-01
+412,2019,4,Chubut,Banda_Ancha_Fija,95.292,2019-10-01
+414,2019,4,Corrientes,Banda_Ancha_Fija,113.831,2019-10-01
+415,2019,4,Entre Ríos,Banda_Ancha_Fija,239.017,2019-10-01
+416,2019,4,Formosa,Banda_Ancha_Fija,46.711,2019-10-01
+417,2019,4,Jujuy,Banda_Ancha_Fija,88.881,2019-10-01
+418,2019,4,La Pampa,Banda_Ancha_Fija,90.28,2019-10-01
+419,2019,4,La Rioja,Banda_Ancha_Fija,48.999,2019-10-01
+420,2019,4,Mendoza,Banda_Ancha_Fija,185.157,2019-10-01
+421,2019,4,Misiones,Banda_Ancha_Fija,135.813,2019-10-01
+422,2019,4,Neuquén,Banda_Ancha_Fija,116.069,2019-10-01
+423,2019,4,Río Negro,Banda_Ancha_Fija,126.636,2019-10-01
+424,2019,4,Salta,Banda_Ancha_Fija,172.443,2019-10-01
+425,2019,4,San Juan,Banda_Ancha_Fija,64.715,2019-10-01
+426,2019,4,San Luis,Banda_Ancha_Fija,108.053,2019-10-01
+427,2019,4,Santa Cruz,Banda_Ancha_Fija,39.17,2019-10-01
+429,2019,4,Santiago Del Estero,Banda_Ancha_Fija,103.587,2019-10-01
+430,2019,4,Tierra Del Fuego,Banda_Ancha_Fija,40.101,2019-10-01
+431,2019,4,Tucumán,Banda_Ancha_Fija,198.621,2019-10-01
+432,2019,3,Buenos Aires,Banda_Ancha_Fija,0.0,2019-07-01
+433,2019,3,Capital Federal,Banda_Ancha_Fija,0.0,2019-07-01
+434,2019,3,Catamarca,Banda_Ancha_Fija,32.391,2019-07-01
+435,2019,3,Chaco,Banda_Ancha_Fija,114.438,2019-07-01
+436,2019,3,Chubut,Banda_Ancha_Fija,87.481,2019-07-01
+438,2019,3,Corrientes,Banda_Ancha_Fija,112.749,2019-07-01
+439,2019,3,Entre Ríos,Banda_Ancha_Fija,238.057,2019-07-01
+440,2019,3,Formosa,Banda_Ancha_Fija,46.066,2019-07-01
+441,2019,3,Jujuy,Banda_Ancha_Fija,86.575,2019-07-01
+442,2019,3,La Pampa,Banda_Ancha_Fija,90.559,2019-07-01
+443,2019,3,La Rioja,Banda_Ancha_Fija,49.659,2019-07-01
+444,2019,3,Mendoza,Banda_Ancha_Fija,223.015,2019-07-01
+445,2019,3,Misiones,Banda_Ancha_Fija,133.883,2019-07-01
+446,2019,3,Neuquén,Banda_Ancha_Fija,123.435,2019-07-01
+447,2019,3,Río Negro,Banda_Ancha_Fija,143.391,2019-07-01
+448,2019,3,Salta,Banda_Ancha_Fija,151.834,2019-07-01
+449,2019,3,San Juan,Banda_Ancha_Fija,72.535,2019-07-01
+450,2019,3,San Luis,Banda_Ancha_Fija,122.409,2019-07-01
+451,2019,3,Santa Cruz,Banda_Ancha_Fija,37.642,2019-07-01
+452,2019,3,Santa Fe,Banda_Ancha_Fija,760.706,2019-07-01
+453,2019,3,Santiago Del Estero,Banda_Ancha_Fija,133.13,2019-07-01
+454,2019,3,Tierra Del Fuego,Banda_Ancha_Fija,48.043,2019-07-01
+455,2019,3,Tucumán,Banda_Ancha_Fija,164.099,2019-07-01
+456,2019,2,Buenos Aires,Banda_Ancha_Fija,0.0,2019-04-01
+457,2019,2,Capital Federal,Banda_Ancha_Fija,0.0,2019-04-01
+458,2019,2,Catamarca,Banda_Ancha_Fija,33.626,2019-04-01
+459,2019,2,Chaco,Banda_Ancha_Fija,108.721,2019-04-01
+460,2019,2,Chubut,Banda_Ancha_Fija,86.038,2019-04-01
+462,2019,2,Corrientes,Banda_Ancha_Fija,111.539,2019-04-01
+463,2019,2,Entre Ríos,Banda_Ancha_Fija,235.78,2019-04-01
+464,2019,2,Formosa,Banda_Ancha_Fija,46.438,2019-04-01
+465,2019,2,Jujuy,Banda_Ancha_Fija,86.706,2019-04-01
+466,2019,2,La Pampa,Banda_Ancha_Fija,89.937,2019-04-01
+467,2019,2,La Rioja,Banda_Ancha_Fija,50.283,2019-04-01
+468,2019,2,Mendoza,Banda_Ancha_Fija,222.535,2019-04-01
+469,2019,2,Misiones,Banda_Ancha_Fija,132.878,2019-04-01
+470,2019,2,Neuquén,Banda_Ancha_Fija,120.954,2019-04-01
+471,2019,2,Río Negro,Banda_Ancha_Fija,137.632,2019-04-01
+472,2019,2,Salta,Banda_Ancha_Fija,142.567,2019-04-01
+473,2019,2,San Juan,Banda_Ancha_Fija,69.461,2019-04-01
+474,2019,2,San Luis,Banda_Ancha_Fija,117.094,2019-04-01
+475,2019,2,Santa Cruz,Banda_Ancha_Fija,30.225,2019-04-01
+476,2019,2,Santa Fe,Banda_Ancha_Fija,743.258,2019-04-01
+477,2019,2,Santiago Del Estero,Banda_Ancha_Fija,126.752,2019-04-01
+478,2019,2,Tierra Del Fuego,Banda_Ancha_Fija,46.91,2019-04-01
+479,2019,2,Tucumán,Banda_Ancha_Fija,166.299,2019-04-01
+480,2019,1,Buenos Aires,Banda_Ancha_Fija,0.0,2019-01-01
+481,2019,1,Capital Federal,Banda_Ancha_Fija,0.0,2019-01-01
+482,2019,1,Catamarca,Banda_Ancha_Fija,33.613,2019-01-01
+483,2019,1,Chaco,Banda_Ancha_Fija,103.664,2019-01-01
+484,2019,1,Chubut,Banda_Ancha_Fija,78.26,2019-01-01
+485,2019,1,Córdoba,Banda_Ancha_Fija,744.01,2019-01-01
+486,2019,1,Corrientes,Banda_Ancha_Fija,102.477,2019-01-01
+487,2019,1,Entre Ríos,Banda_Ancha_Fija,232.403,2019-01-01
+488,2019,1,Formosa,Banda_Ancha_Fija,45.211,2019-01-01
+489,2019,1,Jujuy,Banda_Ancha_Fija,90.146,2019-01-01
+490,2019,1,La Pampa,Banda_Ancha_Fija,88.892,2019-01-01
+491,2019,1,La Rioja,Banda_Ancha_Fija,51.638,2019-01-01
+492,2019,1,Mendoza,Banda_Ancha_Fija,204.976,2019-01-01
+493,2019,1,Misiones,Banda_Ancha_Fija,122.72,2019-01-01
+494,2019,1,Neuquén,Banda_Ancha_Fija,112.321,2019-01-01
+495,2019,1,Río Negro,Banda_Ancha_Fija,120.173,2019-01-01
+496,2019,1,Salta,Banda_Ancha_Fija,136.019,2019-01-01
+497,2019,1,San Juan,Banda_Ancha_Fija,61.881,2019-01-01
+498,2019,1,San Luis,Banda_Ancha_Fija,96.044,2019-01-01
+499,2019,1,Santa Cruz,Banda_Ancha_Fija,24.58,2019-01-01
+500,2019,1,Santa Fe,Banda_Ancha_Fija,736.851,2019-01-01
+501,2019,1,Santiago Del Estero,Banda_Ancha_Fija,89.851,2019-01-01
+502,2019,1,Tierra Del Fuego,Banda_Ancha_Fija,45.903,2019-01-01
+503,2019,1,Tucumán,Banda_Ancha_Fija,171.97,2019-01-01
+504,2018,4,Buenos Aires,Banda_Ancha_Fija,0.0,2018-10-01
+505,2018,4,Capital Federal,Banda_Ancha_Fija,0.0,2018-10-01
+506,2018,4,Catamarca,Banda_Ancha_Fija,33.574,2018-10-01
+507,2018,4,Chaco,Banda_Ancha_Fija,103.257,2018-10-01
+508,2018,4,Chubut,Banda_Ancha_Fija,77.204,2018-10-01
+509,2018,4,Córdoba,Banda_Ancha_Fija,737.234,2018-10-01
+510,2018,4,Corrientes,Banda_Ancha_Fija,100.591,2018-10-01
+511,2018,4,Entre Ríos,Banda_Ancha_Fija,222.003,2018-10-01
+512,2018,4,Formosa,Banda_Ancha_Fija,45.204,2018-10-01
+513,2018,4,Jujuy,Banda_Ancha_Fija,90.132,2018-10-01
+514,2018,4,La Pampa,Banda_Ancha_Fija,85.368,2018-10-01
+515,2018,4,La Rioja,Banda_Ancha_Fija,51.633,2018-10-01
+516,2018,4,Mendoza,Banda_Ancha_Fija,204.982,2018-10-01
+517,2018,4,Misiones,Banda_Ancha_Fija,116.273,2018-10-01
+518,2018,4,Neuquén,Banda_Ancha_Fija,112.309,2018-10-01
+519,2018,4,Río Negro,Banda_Ancha_Fija,115.922,2018-10-01
+520,2018,4,Salta,Banda_Ancha_Fija,134.577,2018-10-01
+521,2018,4,San Juan,Banda_Ancha_Fija,61.834,2018-10-01
+522,2018,4,San Luis,Banda_Ancha_Fija,96.04,2018-10-01
+523,2018,4,Santa Cruz,Banda_Ancha_Fija,24.443,2018-10-01
+524,2018,4,Santa Fe,Banda_Ancha_Fija,720.161,2018-10-01
+525,2018,4,Santiago Del Estero,Banda_Ancha_Fija,89.333,2018-10-01
+526,2018,4,Tierra Del Fuego,Banda_Ancha_Fija,45.716,2018-10-01
+527,2018,4,Tucumán,Banda_Ancha_Fija,171.972,2018-10-01
+528,2018,3,Buenos Aires,Banda_Ancha_Fija,0.0,2018-07-01
+529,2018,3,Capital Federal,Banda_Ancha_Fija,0.0,2018-07-01
+530,2018,3,Catamarca,Banda_Ancha_Fija,34.215,2018-07-01
+531,2018,3,Chaco,Banda_Ancha_Fija,102.021,2018-07-01
+532,2018,3,Chubut,Banda_Ancha_Fija,101.31,2018-07-01
+533,2018,3,Córdoba,Banda_Ancha_Fija,725.764,2018-07-01
+534,2018,3,Corrientes,Banda_Ancha_Fija,99.445,2018-07-01
+535,2018,3,Entre Ríos,Banda_Ancha_Fija,204.56,2018-07-01
+536,2018,3,Formosa,Banda_Ancha_Fija,44.865,2018-07-01
+537,2018,3,Jujuy,Banda_Ancha_Fija,44.934,2018-07-01
+538,2018,3,La Pampa,Banda_Ancha_Fija,83.18,2018-07-01
+539,2018,3,La Rioja,Banda_Ancha_Fija,51.855,2018-07-01
+540,2018,3,Mendoza,Banda_Ancha_Fija,205.545,2018-07-01
+541,2018,3,Misiones,Banda_Ancha_Fija,108.042,2018-07-01
+542,2018,3,Neuquén,Banda_Ancha_Fija,114.713,2018-07-01
+543,2018,3,Río Negro,Banda_Ancha_Fija,112.433,2018-07-01
+544,2018,3,Salta,Banda_Ancha_Fija,132.882,2018-07-01
+545,2018,3,San Juan,Banda_Ancha_Fija,63.823,2018-07-01
+546,2018,3,San Luis,Banda_Ancha_Fija,74.121,2018-07-01
+547,2018,3,Santa Cruz,Banda_Ancha_Fija,33.565,2018-07-01
+548,2018,3,Santa Fe,Banda_Ancha_Fija,694.883,2018-07-01
+549,2018,3,Santiago Del Estero,Banda_Ancha_Fija,86.358,2018-07-01
+550,2018,3,Tierra Del Fuego,Banda_Ancha_Fija,45.056,2018-07-01
+551,2018,3,Tucumán,Banda_Ancha_Fija,171.135,2018-07-01
+552,2018,2,Buenos Aires,Banda_Ancha_Fija,0.0,2018-04-01
+553,2018,2,Capital Federal,Banda_Ancha_Fija,0.0,2018-04-01
+554,2018,2,Catamarca,Banda_Ancha_Fija,34.078,2018-04-01
+555,2018,2,Chaco,Banda_Ancha_Fija,98.509,2018-04-01
+556,2018,2,Chubut,Banda_Ancha_Fija,98.137,2018-04-01
+557,2018,2,Córdoba,Banda_Ancha_Fija,712.979,2018-04-01
+558,2018,2,Corrientes,Banda_Ancha_Fija,97.946,2018-04-01
+559,2018,2,Entre Ríos,Banda_Ancha_Fija,199.937,2018-04-01
+560,2018,2,Formosa,Banda_Ancha_Fija,44.554,2018-04-01
+561,2018,2,Jujuy,Banda_Ancha_Fija,45.132,2018-04-01
+562,2018,2,La Pampa,Banda_Ancha_Fija,82.177,2018-04-01
+563,2018,2,La Rioja,Banda_Ancha_Fija,51.931,2018-04-01
+564,2018,2,Mendoza,Banda_Ancha_Fija,199.468,2018-04-01
+565,2018,2,Misiones,Banda_Ancha_Fija,106.147,2018-04-01
+566,2018,2,Neuquén,Banda_Ancha_Fija,113.842,2018-04-01
+567,2018,2,Río Negro,Banda_Ancha_Fija,111.176,2018-04-01
+568,2018,2,Salta,Banda_Ancha_Fija,134.166,2018-04-01
+569,2018,2,San Juan,Banda_Ancha_Fija,63.443,2018-04-01
+570,2018,2,San Luis,Banda_Ancha_Fija,21.168,2018-04-01
+571,2018,2,Santa Cruz,Banda_Ancha_Fija,33.97,2018-04-01
+572,2018,2,Santa Fe,Banda_Ancha_Fija,684.243,2018-04-01
+573,2018,2,Santiago Del Estero,Banda_Ancha_Fija,83.773,2018-04-01
+574,2018,2,Tierra Del Fuego,Banda_Ancha_Fija,44.199,2018-04-01
+575,2018,2,Tucumán,Banda_Ancha_Fija,169.926,2018-04-01
+576,2018,1,Buenos Aires,Banda_Ancha_Fija,0.0,2018-01-01
+577,2018,1,Capital Federal,Banda_Ancha_Fija,0.0,2018-01-01
+578,2018,1,Catamarca,Banda_Ancha_Fija,33.934,2018-01-01
+579,2018,1,Chaco,Banda_Ancha_Fija,96.925,2018-01-01
+580,2018,1,Chubut,Banda_Ancha_Fija,95.532,2018-01-01
+581,2018,1,Córdoba,Banda_Ancha_Fija,713.825,2018-01-01
+582,2018,1,Corrientes,Banda_Ancha_Fija,94.406,2018-01-01
+583,2018,1,Entre Ríos,Banda_Ancha_Fija,197.346,2018-01-01
+584,2018,1,Formosa,Banda_Ancha_Fija,32.328,2018-01-01
+585,2018,1,Jujuy,Banda_Ancha_Fija,44.405,2018-01-01
+586,2018,1,La Pampa,Banda_Ancha_Fija,82.668,2018-01-01
+587,2018,1,La Rioja,Banda_Ancha_Fija,52.228,2018-01-01
+588,2018,1,Mendoza,Banda_Ancha_Fija,199.463,2018-01-01
+589,2018,1,Misiones,Banda_Ancha_Fija,103.58,2018-01-01
+590,2018,1,Neuquén,Banda_Ancha_Fija,115.897,2018-01-01
+591,2018,1,Río Negro,Banda_Ancha_Fija,110.057,2018-01-01
+592,2018,1,Salta,Banda_Ancha_Fija,133.182,2018-01-01
+593,2018,1,San Juan,Banda_Ancha_Fija,62.61,2018-01-01
+594,2018,1,San Luis,Banda_Ancha_Fija,21.096,2018-01-01
+595,2018,1,Santa Cruz,Banda_Ancha_Fija,33.97,2018-01-01
+596,2018,1,Santa Fe,Banda_Ancha_Fija,679.717,2018-01-01
+597,2018,1,Santiago Del Estero,Banda_Ancha_Fija,82.916,2018-01-01
+598,2018,1,Tierra Del Fuego,Banda_Ancha_Fija,31.106,2018-01-01
+599,2018,1,Tucumán,Banda_Ancha_Fija,168.026,2018-01-01
+600,2017,4,Buenos Aires,Banda_Ancha_Fija,0.0,2017-10-01
+601,2017,4,Capital Federal,Banda_Ancha_Fija,0.0,2017-10-01
+602,2017,4,Catamarca,Banda_Ancha_Fija,29.548,2017-10-01
+603,2017,4,Chaco,Banda_Ancha_Fija,96.603,2017-10-01
+604,2017,4,Chubut,Banda_Ancha_Fija,91.012,2017-10-01
+605,2017,4,Córdoba,Banda_Ancha_Fija,709.874,2017-10-01
+606,2017,4,Corrientes,Banda_Ancha_Fija,93.76,2017-10-01
+607,2017,4,Entre Ríos,Banda_Ancha_Fija,193.654,2017-10-01
+608,2017,4,Formosa,Banda_Ancha_Fija,32.056,2017-10-01
+609,2017,4,Jujuy,Banda_Ancha_Fija,43.551,2017-10-01
+610,2017,4,La Pampa,Banda_Ancha_Fija,81.675,2017-10-01
+611,2017,4,La Rioja,Banda_Ancha_Fija,52.177,2017-10-01
+612,2017,4,Mendoza,Banda_Ancha_Fija,178.661,2017-10-01
+613,2017,4,Misiones,Banda_Ancha_Fija,103.895,2017-10-01
+614,2017,4,Neuquén,Banda_Ancha_Fija,114.965,2017-10-01
+615,2017,4,Río Negro,Banda_Ancha_Fija,108.702,2017-10-01
+616,2017,4,Salta,Banda_Ancha_Fija,132.811,2017-10-01
+617,2017,4,San Juan,Banda_Ancha_Fija,57.965,2017-10-01
+618,2017,4,San Luis,Banda_Ancha_Fija,14.604,2017-10-01
+619,2017,4,Santa Cruz,Banda_Ancha_Fija,29.018,2017-10-01
+620,2017,4,Santa Fe,Banda_Ancha_Fija,672.137,2017-10-01
+621,2017,4,Santiago Del Estero,Banda_Ancha_Fija,68.842,2017-10-01
+622,2017,4,Tierra Del Fuego,Banda_Ancha_Fija,28.346,2017-10-01
+623,2017,4,Tucumán,Banda_Ancha_Fija,162.298,2017-10-01
+624,2017,3,Buenos Aires,Banda_Ancha_Fija,0.0,2017-07-01
+625,2017,3,Capital Federal,Banda_Ancha_Fija,0.0,2017-07-01
+626,2017,3,Catamarca,Banda_Ancha_Fija,33.467,2017-07-01
+627,2017,3,Chaco,Banda_Ancha_Fija,93.747,2017-07-01
+628,2017,3,Chubut,Banda_Ancha_Fija,81.067,2017-07-01
+629,2017,3,Córdoba,Banda_Ancha_Fija,696.536,2017-07-01
+630,2017,3,Corrientes,Banda_Ancha_Fija,92.536,2017-07-01
+631,2017,3,Entre Ríos,Banda_Ancha_Fija,185.414,2017-07-01
+632,2017,3,Formosa,Banda_Ancha_Fija,32.105,2017-07-01
+633,2017,3,Jujuy,Banda_Ancha_Fija,43.241,2017-07-01
+634,2017,3,La Pampa,Banda_Ancha_Fija,79.28,2017-07-01
+635,2017,3,La Rioja,Banda_Ancha_Fija,51.896,2017-07-01
+636,2017,3,Mendoza,Banda_Ancha_Fija,190.958,2017-07-01
+637,2017,3,Misiones,Banda_Ancha_Fija,100.476,2017-07-01
+638,2017,3,Neuquén,Banda_Ancha_Fija,113.755,2017-07-01
+639,2017,3,Río Negro,Banda_Ancha_Fija,106.393,2017-07-01
+640,2017,3,Salta,Banda_Ancha_Fija,132.517,2017-07-01
+641,2017,3,San Juan,Banda_Ancha_Fija,61.789,2017-07-01
+642,2017,3,San Luis,Banda_Ancha_Fija,21.408,2017-07-01
+643,2017,3,Santa Cruz,Banda_Ancha_Fija,33.222,2017-07-01
+644,2017,3,Santa Fe,Banda_Ancha_Fija,662.086,2017-07-01
+645,2017,3,Santiago Del Estero,Banda_Ancha_Fija,82.792,2017-07-01
+646,2017,3,Tierra Del Fuego,Banda_Ancha_Fija,30.883,2017-07-01
+647,2017,3,Tucumán,Banda_Ancha_Fija,160.979,2017-07-01
+648,2017,2,Buenos Aires,Banda_Ancha_Fija,0.0,2017-04-01
+649,2017,2,Capital Federal,Banda_Ancha_Fija,0.0,2017-04-01
+650,2017,2,Catamarca,Banda_Ancha_Fija,26.692,2017-04-01
+651,2017,2,Chaco,Banda_Ancha_Fija,90.597,2017-04-01
+652,2017,2,Chubut,Banda_Ancha_Fija,62.245,2017-04-01
+653,2017,2,Córdoba,Banda_Ancha_Fija,657.505,2017-04-01
+654,2017,2,Corrientes,Banda_Ancha_Fija,90.085,2017-04-01
+655,2017,2,Entre Ríos,Banda_Ancha_Fija,182.675,2017-04-01
+656,2017,2,Formosa,Banda_Ancha_Fija,29.956,2017-04-01
+657,2017,2,Jujuy,Banda_Ancha_Fija,42.656,2017-04-01
+658,2017,2,La Pampa,Banda_Ancha_Fija,72.573,2017-04-01
+659,2017,2,La Rioja,Banda_Ancha_Fija,16.271,2017-04-01
+660,2017,2,Mendoza,Banda_Ancha_Fija,169.302,2017-04-01
+661,2017,2,Misiones,Banda_Ancha_Fija,99.794,2017-04-01
+662,2017,2,Neuquén,Banda_Ancha_Fija,115.321,2017-04-01
+663,2017,2,Río Negro,Banda_Ancha_Fija,100.621,2017-04-01
+664,2017,2,Salta,Banda_Ancha_Fija,108.54,2017-04-01
+665,2017,2,San Juan,Banda_Ancha_Fija,51.261,2017-04-01
+666,2017,2,San Luis,Banda_Ancha_Fija,12.992,2017-04-01
+667,2017,2,Santa Cruz,Banda_Ancha_Fija,26.019,2017-04-01
+668,2017,2,Santa Fe,Banda_Ancha_Fija,566.918,2017-04-01
+669,2017,2,Santiago Del Estero,Banda_Ancha_Fija,33.194,2017-04-01
+670,2017,2,Tierra Del Fuego,Banda_Ancha_Fija,31.938,2017-04-01
+671,2017,2,Tucumán,Banda_Ancha_Fija,154.374,2017-04-01
+672,2017,1,Buenos Aires,Banda_Ancha_Fija,0.0,2017-01-01
+673,2017,1,Capital Federal,Banda_Ancha_Fija,0.0,2017-01-01
+674,2017,1,Catamarca,Banda_Ancha_Fija,26.304,2017-01-01
+675,2017,1,Chaco,Banda_Ancha_Fija,89.036,2017-01-01
+676,2017,1,Chubut,Banda_Ancha_Fija,62.166,2017-01-01
+677,2017,1,Córdoba,Banda_Ancha_Fija,641.066,2017-01-01
+678,2017,1,Corrientes,Banda_Ancha_Fija,88.596,2017-01-01
+679,2017,1,Entre Ríos,Banda_Ancha_Fija,180.296,2017-01-01
+680,2017,1,Formosa,Banda_Ancha_Fija,29.705,2017-01-01
+681,2017,1,Jujuy,Banda_Ancha_Fija,43.202,2017-01-01
+682,2017,1,La Pampa,Banda_Ancha_Fija,71.458,2017-01-01
+683,2017,1,La Rioja,Banda_Ancha_Fija,16.207,2017-01-01
+684,2017,1,Mendoza,Banda_Ancha_Fija,169.282,2017-01-01
+685,2017,1,Misiones,Banda_Ancha_Fija,97.619,2017-01-01
+686,2017,1,Neuquén,Banda_Ancha_Fija,113.227,2017-01-01
+687,2017,1,Río Negro,Banda_Ancha_Fija,100.288,2017-01-01
+688,2017,1,Salta,Banda_Ancha_Fija,107.632,2017-01-01
+689,2017,1,San Juan,Banda_Ancha_Fija,51.253,2017-01-01
+690,2017,1,San Luis,Banda_Ancha_Fija,12.992,2017-01-01
+691,2017,1,Santa Cruz,Banda_Ancha_Fija,26.116,2017-01-01
+692,2017,1,Santa Fe,Banda_Ancha_Fija,562.52,2017-01-01
+693,2017,1,Santiago Del Estero,Banda_Ancha_Fija,34.473,2017-01-01
+694,2017,1,Tierra Del Fuego,Banda_Ancha_Fija,31.938,2017-01-01
+695,2017,1,Tucumán,Banda_Ancha_Fija,152.734,2017-01-01
+696,2016,4,Buenos Aires,Banda_Ancha_Fija,0.0,2016-10-01
+697,2016,4,Capital Federal,Banda_Ancha_Fija,0.0,2016-10-01
+698,2016,4,Catamarca,Banda_Ancha_Fija,27.021,2016-10-01
+699,2016,4,Chaco,Banda_Ancha_Fija,88.833,2016-10-01
+700,2016,4,Chubut,Banda_Ancha_Fija,62.035,2016-10-01
+701,2016,4,Córdoba,Banda_Ancha_Fija,636.422,2016-10-01
+702,2016,4,Corrientes,Banda_Ancha_Fija,88.084,2016-10-01
+703,2016,4,Entre Ríos,Banda_Ancha_Fija,180.188,2016-10-01
+704,2016,4,Formosa,Banda_Ancha_Fija,29.513,2016-10-01
+705,2016,4,Jujuy,Banda_Ancha_Fija,42.624,2016-10-01
+706,2016,4,La Pampa,Banda_Ancha_Fija,71.368,2016-10-01
+707,2016,4,La Rioja,Banda_Ancha_Fija,16.298,2016-10-01
+708,2016,4,Mendoza,Banda_Ancha_Fija,169.274,2016-10-01
+709,2016,4,Misiones,Banda_Ancha_Fija,97.39,2016-10-01
+710,2016,4,Neuquén,Banda_Ancha_Fija,111.723,2016-10-01
+711,2016,4,Río Negro,Banda_Ancha_Fija,100.02,2016-10-01
+712,2016,4,Salta,Banda_Ancha_Fija,106.934,2016-10-01
+713,2016,4,San Juan,Banda_Ancha_Fija,51.301,2016-10-01
+714,2016,4,San Luis,Banda_Ancha_Fija,12.992,2016-10-01
+715,2016,4,Santa Cruz,Banda_Ancha_Fija,26.094,2016-10-01
+716,2016,4,Santa Fe,Banda_Ancha_Fija,561.47,2016-10-01
+717,2016,4,Santiago Del Estero,Banda_Ancha_Fija,35.049,2016-10-01
+718,2016,4,Tierra Del Fuego,Banda_Ancha_Fija,31.938,2016-10-01
+719,2016,4,Tucumán,Banda_Ancha_Fija,151.615,2016-10-01
+720,2016,3,Buenos Aires,Banda_Ancha_Fija,0.0,2016-07-01
+721,2016,3,Capital Federal,Banda_Ancha_Fija,0.0,2016-07-01
+722,2016,3,Catamarca,Banda_Ancha_Fija,26.957,2016-07-01
+723,2016,3,Chaco,Banda_Ancha_Fija,89.216,2016-07-01
+724,2016,3,Chubut,Banda_Ancha_Fija,62.222,2016-07-01
+725,2016,3,Córdoba,Banda_Ancha_Fija,642.458,2016-07-01
+726,2016,3,Corrientes,Banda_Ancha_Fija,88.328,2016-07-01
+727,2016,3,Entre Ríos,Banda_Ancha_Fija,181.092,2016-07-01
+728,2016,3,Formosa,Banda_Ancha_Fija,27.716,2016-07-01
+729,2016,3,Jujuy,Banda_Ancha_Fija,42.537,2016-07-01
+730,2016,3,La Pampa,Banda_Ancha_Fija,69.903,2016-07-01
+731,2016,3,La Rioja,Banda_Ancha_Fija,16.912,2016-07-01
+732,2016,3,Mendoza,Banda_Ancha_Fija,169.174,2016-07-01
+733,2016,3,Misiones,Banda_Ancha_Fija,97.997,2016-07-01
+734,2016,3,Neuquén,Banda_Ancha_Fija,110.491,2016-07-01
+735,2016,3,Río Negro,Banda_Ancha_Fija,100.024,2016-07-01
+736,2016,3,Salta,Banda_Ancha_Fija,107.79,2016-07-01
+737,2016,3,San Juan,Banda_Ancha_Fija,51.348,2016-07-01
+738,2016,3,San Luis,Banda_Ancha_Fija,12.978,2016-07-01
+739,2016,3,Santa Cruz,Banda_Ancha_Fija,25.886,2016-07-01
+740,2016,3,Santa Fe,Banda_Ancha_Fija,566.625,2016-07-01
+741,2016,3,Santiago Del Estero,Banda_Ancha_Fija,35.658,2016-07-01
+742,2016,3,Tierra Del Fuego,Banda_Ancha_Fija,31.306,2016-07-01
+743,2016,3,Tucumán,Banda_Ancha_Fija,151.282,2016-07-01
+744,2016,2,Buenos Aires,Banda_Ancha_Fija,0.0,2016-04-01
+745,2016,2,Capital Federal,Banda_Ancha_Fija,0.0,2016-04-01
+746,2016,2,Catamarca,Banda_Ancha_Fija,26.543,2016-04-01
+747,2016,2,Chaco,Banda_Ancha_Fija,88.235,2016-04-01
+748,2016,2,Chubut,Banda_Ancha_Fija,62.116,2016-04-01
+749,2016,2,Córdoba,Banda_Ancha_Fija,634.68,2016-04-01
+750,2016,2,Corrientes,Banda_Ancha_Fija,86.932,2016-04-01
+751,2016,2,Entre Ríos,Banda_Ancha_Fija,178.194,2016-04-01
+752,2016,2,Formosa,Banda_Ancha_Fija,28.801,2016-04-01
+753,2016,2,Jujuy,Banda_Ancha_Fija,41.187,2016-04-01
+754,2016,2,La Pampa,Banda_Ancha_Fija,68.403,2016-04-01
+755,2016,2,La Rioja,Banda_Ancha_Fija,16.718,2016-04-01
+756,2016,2,Mendoza,Banda_Ancha_Fija,169.274,2016-04-01
+757,2016,2,Misiones,Banda_Ancha_Fija,95.808,2016-04-01
+758,2016,2,Neuquén,Banda_Ancha_Fija,108.224,2016-04-01
+759,2016,2,Río Negro,Banda_Ancha_Fija,99.631,2016-04-01
+760,2016,2,Salta,Banda_Ancha_Fija,104.929,2016-04-01
+761,2016,2,San Juan,Banda_Ancha_Fija,51.392,2016-04-01
+762,2016,2,San Luis,Banda_Ancha_Fija,12.939,2016-04-01
+763,2016,2,Santa Cruz,Banda_Ancha_Fija,25.797,2016-04-01
+764,2016,2,Santa Fe,Banda_Ancha_Fija,563.867,2016-04-01
+765,2016,2,Santiago Del Estero,Banda_Ancha_Fija,36.958,2016-04-01
+766,2016,2,Tierra Del Fuego,Banda_Ancha_Fija,30.74,2016-04-01
+767,2016,2,Tucumán,Banda_Ancha_Fija,148.636,2016-04-01
+768,2016,1,Buenos Aires,Banda_Ancha_Fija,0.0,2016-01-01
+769,2016,1,Capital Federal,Banda_Ancha_Fija,0.0,2016-01-01
+770,2016,1,Catamarca,Banda_Ancha_Fija,26.376,2016-01-01
+771,2016,1,Chaco,Banda_Ancha_Fija,86.635,2016-01-01
+772,2016,1,Chubut,Banda_Ancha_Fija,62.06,2016-01-01
+773,2016,1,Córdoba,Banda_Ancha_Fija,609.692,2016-01-01
+774,2016,1,Corrientes,Banda_Ancha_Fija,85.51,2016-01-01
+775,2016,1,Entre Ríos,Banda_Ancha_Fija,174.634,2016-01-01
+776,2016,1,Formosa,Banda_Ancha_Fija,28.313,2016-01-01
+777,2016,1,Jujuy,Banda_Ancha_Fija,40.287,2016-01-01
+778,2016,1,La Pampa,Banda_Ancha_Fija,65.442,2016-01-01
+779,2016,1,La Rioja,Banda_Ancha_Fija,16.673,2016-01-01
+780,2016,1,Mendoza,Banda_Ancha_Fija,169.257,2016-01-01
+781,2016,1,Misiones,Banda_Ancha_Fija,92.951,2016-01-01
+782,2016,1,Neuquén,Banda_Ancha_Fija,101.969,2016-01-01
+783,2016,1,Río Negro,Banda_Ancha_Fija,98.745,2016-01-01
+784,2016,1,Salta,Banda_Ancha_Fija,102.423,2016-01-01
+785,2016,1,San Juan,Banda_Ancha_Fija,51.373,2016-01-01
+786,2016,1,San Luis,Banda_Ancha_Fija,12.915,2016-01-01
+787,2016,1,Santa Cruz,Banda_Ancha_Fija,25.931,2016-01-01
+788,2016,1,Santa Fe,Banda_Ancha_Fija,551.378,2016-01-01
+789,2016,1,Santiago Del Estero,Banda_Ancha_Fija,37.695,2016-01-01
+790,2016,1,Tierra Del Fuego,Banda_Ancha_Fija,29.867,2016-01-01
+791,2016,1,Tucumán,Banda_Ancha_Fija,146.596,2016-01-01
+792,2015,4,Buenos Aires,Banda_Ancha_Fija,0.0,2015-10-01
+793,2015,4,Capital Federal,Banda_Ancha_Fija,0.0,2015-10-01
+794,2015,4,Catamarca,Banda_Ancha_Fija,26.459,2015-10-01
+795,2015,4,Chaco,Banda_Ancha_Fija,86.537,2015-10-01
+796,2015,4,Chubut,Banda_Ancha_Fija,62.279,2015-10-01
+797,2015,4,Córdoba,Banda_Ancha_Fija,625.835,2015-10-01
+798,2015,4,Corrientes,Banda_Ancha_Fija,85.409,2015-10-01
+799,2015,4,Entre Ríos,Banda_Ancha_Fija,173.957,2015-10-01
+800,2015,4,Formosa,Banda_Ancha_Fija,28.088,2015-10-01
+801,2015,4,Jujuy,Banda_Ancha_Fija,39.922,2015-10-01
+802,2015,4,La Pampa,Banda_Ancha_Fija,66.054,2015-10-01
+803,2015,4,La Rioja,Banda_Ancha_Fija,16.914,2015-10-01
+804,2015,4,Mendoza,Banda_Ancha_Fija,169.251,2015-10-01
+805,2015,4,Misiones,Banda_Ancha_Fija,92.846,2015-10-01
+806,2015,4,Neuquén,Banda_Ancha_Fija,105.122,2015-10-01
+807,2015,4,Río Negro,Banda_Ancha_Fija,98.655,2015-10-01
+808,2015,4,Salta,Banda_Ancha_Fija,101.917,2015-10-01
+809,2015,4,San Juan,Banda_Ancha_Fija,51.408,2015-10-01
+810,2015,4,San Luis,Banda_Ancha_Fija,12.901,2015-10-01
+811,2015,4,Santa Cruz,Banda_Ancha_Fija,26.047,2015-10-01
+812,2015,4,Santa Fe,Banda_Ancha_Fija,561.045,2015-10-01
+813,2015,4,Santiago Del Estero,Banda_Ancha_Fija,39.132,2015-10-01
+814,2015,4,Tierra Del Fuego,Banda_Ancha_Fija,29.334,2015-10-01
+815,2015,4,Tucumán,Banda_Ancha_Fija,146.053,2015-10-01
+816,2015,3,Buenos Aires,Banda_Ancha_Fija,0.0,2015-07-01
+817,2015,3,Capital Federal,Banda_Ancha_Fija,0.0,2015-07-01
+818,2015,3,Catamarca,Banda_Ancha_Fija,26.08,2015-07-01
+819,2015,3,Chaco,Banda_Ancha_Fija,85.354,2015-07-01
+820,2015,3,Chubut,Banda_Ancha_Fija,62.143,2015-07-01
+821,2015,3,Córdoba,Banda_Ancha_Fija,622.761,2015-07-01
+822,2015,3,Corrientes,Banda_Ancha_Fija,84.931,2015-07-01
+823,2015,3,Entre Ríos,Banda_Ancha_Fija,172.252,2015-07-01
+824,2015,3,Formosa,Banda_Ancha_Fija,27.751,2015-07-01
+825,2015,3,Jujuy,Banda_Ancha_Fija,39.548,2015-07-01
+826,2015,3,La Pampa,Banda_Ancha_Fija,64.976,2015-07-01
+827,2015,3,La Rioja,Banda_Ancha_Fija,16.753,2015-07-01
+828,2015,3,Mendoza,Banda_Ancha_Fija,169.261,2015-07-01
+829,2015,3,Misiones,Banda_Ancha_Fija,91.615,2015-07-01
+830,2015,3,Neuquén,Banda_Ancha_Fija,98.376,2015-07-01
+831,2015,3,Río Negro,Banda_Ancha_Fija,98.529,2015-07-01
+832,2015,3,Salta,Banda_Ancha_Fija,100.57,2015-07-01
+833,2015,3,San Juan,Banda_Ancha_Fija,51.409,2015-07-01
+834,2015,3,San Luis,Banda_Ancha_Fija,12.902,2015-07-01
+835,2015,3,Santa Cruz,Banda_Ancha_Fija,25.912,2015-07-01
+836,2015,3,Santa Fe,Banda_Ancha_Fija,556.097,2015-07-01
+837,2015,3,Santiago Del Estero,Banda_Ancha_Fija,39.394,2015-07-01
+838,2015,3,Tierra Del Fuego,Banda_Ancha_Fija,33.118,2015-07-01
+839,2015,3,Tucumán,Banda_Ancha_Fija,144.272,2015-07-01
+840,2015,2,Buenos Aires,Banda_Ancha_Fija,0.0,2015-04-01
+841,2015,2,Capital Federal,Banda_Ancha_Fija,0.0,2015-04-01
+842,2015,2,Catamarca,Banda_Ancha_Fija,25.666,2015-04-01
+843,2015,2,Chaco,Banda_Ancha_Fija,83.832,2015-04-01
+844,2015,2,Chubut,Banda_Ancha_Fija,61.745,2015-04-01
+845,2015,2,Córdoba,Banda_Ancha_Fija,609.51,2015-04-01
+846,2015,2,Corrientes,Banda_Ancha_Fija,83.288,2015-04-01
+847,2015,2,Entre Ríos,Banda_Ancha_Fija,169.309,2015-04-01
+848,2015,2,Formosa,Banda_Ancha_Fija,27.013,2015-04-01
+849,2015,2,Jujuy,Banda_Ancha_Fija,37.72,2015-04-01
+850,2015,2,La Pampa,Banda_Ancha_Fija,63.552,2015-04-01
+851,2015,2,La Rioja,Banda_Ancha_Fija,16.491,2015-04-01
+852,2015,2,Mendoza,Banda_Ancha_Fija,169.259,2015-04-01
+853,2015,2,Misiones,Banda_Ancha_Fija,88.512,2015-04-01
+854,2015,2,Neuquén,Banda_Ancha_Fija,95.644,2015-04-01
+855,2015,2,Río Negro,Banda_Ancha_Fija,97.64,2015-04-01
+856,2015,2,Salta,Banda_Ancha_Fija,98.264,2015-04-01
+857,2015,2,San Juan,Banda_Ancha_Fija,51.367,2015-04-01
+858,2015,2,San Luis,Banda_Ancha_Fija,12.904,2015-04-01
+859,2015,2,Santa Cruz,Banda_Ancha_Fija,25.384,2015-04-01
+860,2015,2,Santa Fe,Banda_Ancha_Fija,545.739,2015-04-01
+861,2015,2,Santiago Del Estero,Banda_Ancha_Fija,39.375,2015-04-01
+862,2015,2,Tierra Del Fuego,Banda_Ancha_Fija,32.96,2015-04-01
+863,2015,2,Tucumán,Banda_Ancha_Fija,140.635,2015-04-01
+864,2015,1,Buenos Aires,Banda_Ancha_Fija,0.0,2015-01-01
+865,2015,1,Capital Federal,Banda_Ancha_Fija,0.0,2015-01-01
+866,2015,1,Catamarca,Banda_Ancha_Fija,25.312,2015-01-01
+867,2015,1,Chaco,Banda_Ancha_Fija,81.329,2015-01-01
+868,2015,1,Chubut,Banda_Ancha_Fija,63.327,2015-01-01
+869,2015,1,Córdoba,Banda_Ancha_Fija,596.663,2015-01-01
+870,2015,1,Corrientes,Banda_Ancha_Fija,81.488,2015-01-01
+871,2015,1,Entre Ríos,Banda_Ancha_Fija,165.839,2015-01-01
+872,2015,1,Formosa,Banda_Ancha_Fija,26.657,2015-01-01
+873,2015,1,Jujuy,Banda_Ancha_Fija,36.608,2015-01-01
+874,2015,1,La Pampa,Banda_Ancha_Fija,62.155,2015-01-01
+875,2015,1,La Rioja,Banda_Ancha_Fija,16.31,2015-01-01
+876,2015,1,Mendoza,Banda_Ancha_Fija,168.355,2015-01-01
+877,2015,1,Misiones,Banda_Ancha_Fija,85.139,2015-01-01
+878,2015,1,Neuquén,Banda_Ancha_Fija,93.373,2015-01-01
+879,2015,1,Río Negro,Banda_Ancha_Fija,96.145,2015-01-01
+880,2015,1,Salta,Banda_Ancha_Fija,96.793,2015-01-01
+881,2015,1,San Juan,Banda_Ancha_Fija,51.117,2015-01-01
+882,2015,1,San Luis,Banda_Ancha_Fija,12.878,2015-01-01
+883,2015,1,Santa Cruz,Banda_Ancha_Fija,26.217,2015-01-01
+884,2015,1,Santa Fe,Banda_Ancha_Fija,535.64,2015-01-01
+885,2015,1,Santiago Del Estero,Banda_Ancha_Fija,39.244,2015-01-01
+886,2015,1,Tierra Del Fuego,Banda_Ancha_Fija,32.726,2015-01-01
+887,2015,1,Tucumán,Banda_Ancha_Fija,138.184,2015-01-01
+888,2014,4,Buenos Aires,Banda_Ancha_Fija,0.0,2014-10-01
+889,2014,4,Capital Federal,Banda_Ancha_Fija,0.0,2014-10-01
+890,2014,4,Catamarca,Banda_Ancha_Fija,25.472,2014-10-01
+891,2014,4,Chaco,Banda_Ancha_Fija,65.998,2014-10-01
+892,2014,4,Chubut,Banda_Ancha_Fija,66.557,2014-10-01
+893,2014,4,Córdoba,Banda_Ancha_Fija,590.113,2014-10-01
+894,2014,4,Corrientes,Banda_Ancha_Fija,65.656,2014-10-01
+895,2014,4,Entre Ríos,Banda_Ancha_Fija,140.567,2014-10-01
+896,2014,4,Formosa,Banda_Ancha_Fija,26.156,2014-10-01
+897,2014,4,Jujuy,Banda_Ancha_Fija,35.999,2014-10-01
+898,2014,4,La Pampa,Banda_Ancha_Fija,56.813,2014-10-01
+899,2014,4,La Rioja,Banda_Ancha_Fija,16.379,2014-10-01
+900,2014,4,Mendoza,Banda_Ancha_Fija,167.766,2014-10-01
+901,2014,4,Misiones,Banda_Ancha_Fija,77.222,2014-10-01
+902,2014,4,Neuquén,Banda_Ancha_Fija,92.999,2014-10-01
+903,2014,4,Río Negro,Banda_Ancha_Fija,95.05,2014-10-01
+904,2014,4,Salta,Banda_Ancha_Fija,93.921,2014-10-01
+905,2014,4,San Juan,Banda_Ancha_Fija,51.39,2014-10-01
+906,2014,4,San Luis,Banda_Ancha_Fija,12.788,2014-10-01
+907,2014,4,Santa Cruz,Banda_Ancha_Fija,25.277,2014-10-01
+908,2014,4,Santa Fe,Banda_Ancha_Fija,528.459,2014-10-01
+909,2014,4,Santiago Del Estero,Banda_Ancha_Fija,39.308,2014-10-01
+910,2014,4,Tierra Del Fuego,Banda_Ancha_Fija,28.249,2014-10-01
+911,2014,4,Tucumán,Banda_Ancha_Fija,137.329,2014-10-01
+912,2014,3,Buenos Aires,Banda_Ancha_Fija,0.0,2014-07-01
+913,2014,3,Capital Federal,Banda_Ancha_Fija,0.0,2014-07-01
+914,2014,3,Catamarca,Banda_Ancha_Fija,24.665,2014-07-01
+915,2014,3,Chaco,Banda_Ancha_Fija,63.71,2014-07-01
+916,2014,3,Chubut,Banda_Ancha_Fija,67.13,2014-07-01
+917,2014,3,Córdoba,Banda_Ancha_Fija,585.231,2014-07-01
+918,2014,3,Corrientes,Banda_Ancha_Fija,63.516,2014-07-01
+919,2014,3,Entre Ríos,Banda_Ancha_Fija,136.618,2014-07-01
+920,2014,3,Formosa,Banda_Ancha_Fija,25.873,2014-07-01
+921,2014,3,Jujuy,Banda_Ancha_Fija,33.739,2014-07-01
+922,2014,3,La Pampa,Banda_Ancha_Fija,61.861,2014-07-01
+923,2014,3,La Rioja,Banda_Ancha_Fija,15.893,2014-07-01
+924,2014,3,Mendoza,Banda_Ancha_Fija,166.184,2014-07-01
+925,2014,3,Misiones,Banda_Ancha_Fija,75.327,2014-07-01
+926,2014,3,Neuquén,Banda_Ancha_Fija,100.099,2014-07-01
+927,2014,3,Río Negro,Banda_Ancha_Fija,96.629,2014-07-01
+928,2014,3,Salta,Banda_Ancha_Fija,92.929,2014-07-01
+929,2014,3,San Juan,Banda_Ancha_Fija,51.031,2014-07-01
+930,2014,3,San Luis,Banda_Ancha_Fija,12.683,2014-07-01
+931,2014,3,Santa Cruz,Banda_Ancha_Fija,25.664,2014-07-01
+932,2014,3,Santa Fe,Banda_Ancha_Fija,520.196,2014-07-01
+933,2014,3,Santiago Del Estero,Banda_Ancha_Fija,37.539,2014-07-01
+934,2014,3,Tierra Del Fuego,Banda_Ancha_Fija,28.037,2014-07-01
+935,2014,3,Tucumán,Banda_Ancha_Fija,131.978,2014-07-01
+936,2014,2,Buenos Aires,Banda_Ancha_Fija,0.0,2014-04-01
+937,2014,2,Capital Federal,Banda_Ancha_Fija,0.0,2014-04-01
+938,2014,2,Catamarca,Banda_Ancha_Fija,24.66,2014-04-01
+939,2014,2,Chaco,Banda_Ancha_Fija,63.243,2014-04-01
+940,2014,2,Chubut,Banda_Ancha_Fija,68.503,2014-04-01
+941,2014,2,Córdoba,Banda_Ancha_Fija,576.747,2014-04-01
+942,2014,2,Corrientes,Banda_Ancha_Fija,62.925,2014-04-01
+943,2014,2,Entre Ríos,Banda_Ancha_Fija,135.468,2014-04-01
+944,2014,2,Formosa,Banda_Ancha_Fija,25.535,2014-04-01
+945,2014,2,Jujuy,Banda_Ancha_Fija,34.359,2014-04-01
+946,2014,2,La Pampa,Banda_Ancha_Fija,55.048,2014-04-01
+947,2014,2,La Rioja,Banda_Ancha_Fija,15.889,2014-04-01
+948,2014,2,Mendoza,Banda_Ancha_Fija,165.046,2014-04-01
+949,2014,2,Misiones,Banda_Ancha_Fija,74.689,2014-04-01
+950,2014,2,Neuquén,Banda_Ancha_Fija,90.053,2014-04-01
+951,2014,2,Río Negro,Banda_Ancha_Fija,94.812,2014-04-01
+952,2014,2,Salta,Banda_Ancha_Fija,91.949,2014-04-01
+953,2014,2,San Juan,Banda_Ancha_Fija,50.891,2014-04-01
+954,2014,2,San Luis,Banda_Ancha_Fija,12.691,2014-04-01
+955,2014,2,Santa Cruz,Banda_Ancha_Fija,26.71,2014-04-01
+956,2014,2,Santa Fe,Banda_Ancha_Fija,511.753,2014-04-01
+957,2014,2,Santiago Del Estero,Banda_Ancha_Fija,38.002,2014-04-01
+958,2014,2,Tierra Del Fuego,Banda_Ancha_Fija,27.443,2014-04-01
+959,2014,2,Tucumán,Banda_Ancha_Fija,131.981,2014-04-01
+960,2014,1,Buenos Aires,Banda_Ancha_Fija,0.0,2014-01-01
+961,2014,1,Capital Federal,Banda_Ancha_Fija,0.0,2014-01-01
+962,2014,1,Catamarca,Banda_Ancha_Fija,24.209,2014-01-01
+963,2014,1,Chaco,Banda_Ancha_Fija,62.52,2014-01-01
+964,2014,1,Chubut,Banda_Ancha_Fija,68.205,2014-01-01
+965,2014,1,Córdoba,Banda_Ancha_Fija,566.705,2014-01-01
+966,2014,1,Corrientes,Banda_Ancha_Fija,62.203,2014-01-01
+967,2014,1,Entre Ríos,Banda_Ancha_Fija,134.216,2014-01-01
+968,2014,1,Formosa,Banda_Ancha_Fija,25.335,2014-01-01
+969,2014,1,Jujuy,Banda_Ancha_Fija,33.825,2014-01-01
+970,2014,1,La Pampa,Banda_Ancha_Fija,53.601,2014-01-01
+971,2014,1,La Rioja,Banda_Ancha_Fija,15.688,2014-01-01
+972,2014,1,Mendoza,Banda_Ancha_Fija,164.084,2014-01-01
+973,2014,1,Misiones,Banda_Ancha_Fija,73.95,2014-01-01
+974,2014,1,Neuquén,Banda_Ancha_Fija,88.077,2014-01-01
+975,2014,1,Río Negro,Banda_Ancha_Fija,93.909,2014-01-01
+976,2014,1,Salta,Banda_Ancha_Fija,91.265,2014-01-01
+977,2014,1,San Juan,Banda_Ancha_Fija,50.543,2014-01-01
+978,2014,1,San Luis,Banda_Ancha_Fija,12.193,2014-01-01
+979,2014,1,Santa Cruz,Banda_Ancha_Fija,26.304,2014-01-01
+980,2014,1,Santa Fe,Banda_Ancha_Fija,506.0,2014-01-01
+981,2014,1,Santiago Del Estero,Banda_Ancha_Fija,37.124,2014-01-01
+982,2014,1,Tierra Del Fuego,Banda_Ancha_Fija,27.272,2014-01-01
+983,2014,1,Tucumán,Banda_Ancha_Fija,129.944,2014-01-01
+984,2024,1,Buenos Aires,Dial_Up,5.9,2024-01-01
+985,2024,1,Capital Federal,Dial_Up,2.05,2024-01-01
+986,2024,1,Catamarca,Dial_Up,1.0,2024-01-01
+987,2024,1,Chaco,Dial_Up,5.0,2024-01-01
+989,2024,1,Córdoba,Dial_Up,63.0,2024-01-01
+990,2024,1,Corrientes,Dial_Up,3.0,2024-01-01
+991,2024,1,Entre Ríos,Dial_Up,20.0,2024-01-01
+992,2024,1,Formosa,Dial_Up,0.0,2024-01-01
+993,2024,1,Jujuy,Dial_Up,0.0,2024-01-01
+994,2024,1,La Pampa,Dial_Up,162.0,2024-01-01
+995,2024,1,La Rioja,Dial_Up,4.0,2024-01-01
+996,2024,1,Mendoza,Dial_Up,730.0,2024-01-01
+997,2024,1,Misiones,Dial_Up,0.0,2024-01-01
+998,2024,1,Neuquén,Dial_Up,439.0,2024-01-01
+999,2024,1,Río Negro,Dial_Up,515.0,2024-01-01
+1000,2024,1,Salta,Dial_Up,5.0,2024-01-01
+1001,2024,1,San Juan,Dial_Up,247.0,2024-01-01
+1002,2024,1,San Luis,Dial_Up,165.0,2024-01-01
+1003,2024,1,Santa Cruz,Dial_Up,187.0,2024-01-01
+1004,2024,1,Santa Fe,Dial_Up,106.0,2024-01-01
+1005,2024,1,Santiago Del Estero,Dial_Up,2.0,2024-01-01
+1006,2024,1,Tierra Del Fuego,Dial_Up,305.0,2024-01-01
+1007,2024,1,Tucumán,Dial_Up,27.0,2024-01-01
+1008,2023,4,Buenos Aires,Dial_Up,5.9,2023-10-01
+1009,2023,4,Capital Federal,Dial_Up,2.05,2023-10-01
+1010,2023,4,Catamarca,Dial_Up,1.0,2023-10-01
+1011,2023,4,Chaco,Dial_Up,5.0,2023-10-01
+1013,2023,4,Córdoba,Dial_Up,63.0,2023-10-01
+1014,2023,4,Corrientes,Dial_Up,3.0,2023-10-01
+1015,2023,4,Entre Ríos,Dial_Up,20.0,2023-10-01
+1016,2023,4,Formosa,Dial_Up,0.0,2023-10-01
+1017,2023,4,Jujuy,Dial_Up,0.0,2023-10-01
+1018,2023,4,La Pampa,Dial_Up,162.0,2023-10-01
+1019,2023,4,La Rioja,Dial_Up,4.0,2023-10-01
+1020,2023,4,Mendoza,Dial_Up,730.0,2023-10-01
+1021,2023,4,Misiones,Dial_Up,0.0,2023-10-01
+1022,2023,4,Neuquén,Dial_Up,439.0,2023-10-01
+1023,2023,4,Río Negro,Dial_Up,515.0,2023-10-01
+1024,2023,4,Salta,Dial_Up,5.0,2023-10-01
+1025,2023,4,San Juan,Dial_Up,247.0,2023-10-01
+1026,2023,4,San Luis,Dial_Up,165.0,2023-10-01
+1027,2023,4,Santa Cruz,Dial_Up,187.0,2023-10-01
+1028,2023,4,Santa Fe,Dial_Up,106.0,2023-10-01
+1029,2023,4,Santiago Del Estero,Dial_Up,2.0,2023-10-01
+1030,2023,4,Tierra Del Fuego,Dial_Up,305.0,2023-10-01
+1031,2023,4,Tucumán,Dial_Up,27.0,2023-10-01
+1032,2023,3,Buenos Aires,Dial_Up,5.9,2023-07-01
+1033,2023,3,Capital Federal,Dial_Up,2.05,2023-07-01
+1034,2023,3,Catamarca,Dial_Up,1.0,2023-07-01
+1035,2023,3,Chaco,Dial_Up,5.0,2023-07-01
+1037,2023,3,Córdoba,Dial_Up,63.0,2023-07-01
+1038,2023,3,Corrientes,Dial_Up,3.0,2023-07-01
+1039,2023,3,Entre Ríos,Dial_Up,20.0,2023-07-01
+1040,2023,3,Formosa,Dial_Up,0.0,2023-07-01
+1041,2023,3,Jujuy,Dial_Up,0.0,2023-07-01
+1042,2023,3,La Pampa,Dial_Up,162.0,2023-07-01
+1043,2023,3,La Rioja,Dial_Up,4.0,2023-07-01
+1044,2023,3,Mendoza,Dial_Up,730.0,2023-07-01
+1045,2023,3,Misiones,Dial_Up,0.0,2023-07-01
+1046,2023,3,Neuquén,Dial_Up,439.0,2023-07-01
+1047,2023,3,Río Negro,Dial_Up,515.0,2023-07-01
+1048,2023,3,Salta,Dial_Up,5.0,2023-07-01
+1049,2023,3,San Juan,Dial_Up,247.0,2023-07-01
+1050,2023,3,San Luis,Dial_Up,165.0,2023-07-01
+1051,2023,3,Santa Cruz,Dial_Up,187.0,2023-07-01
+1052,2023,3,Santa Fe,Dial_Up,106.0,2023-07-01
+1053,2023,3,Santiago Del Estero,Dial_Up,2.0,2023-07-01
+1054,2023,3,Tierra Del Fuego,Dial_Up,305.0,2023-07-01
+1055,2023,3,Tucumán,Dial_Up,27.0,2023-07-01
+1056,2023,2,Buenos Aires,Dial_Up,6.046,2023-04-01
+1057,2023,2,Capital Federal,Dial_Up,2.1,2023-04-01
+1058,2023,2,Catamarca,Dial_Up,1.0,2023-04-01
+1059,2023,2,Chaco,Dial_Up,5.0,2023-04-01
+1061,2023,2,Córdoba,Dial_Up,65.0,2023-04-01
+1062,2023,2,Corrientes,Dial_Up,4.0,2023-04-01
+1063,2023,2,Entre Ríos,Dial_Up,20.0,2023-04-01
+1064,2023,2,Formosa,Dial_Up,0.0,2023-04-01
+1065,2023,2,Jujuy,Dial_Up,0.0,2023-04-01
+1066,2023,2,La Pampa,Dial_Up,166.0,2023-04-01
+1067,2023,2,La Rioja,Dial_Up,4.0,2023-04-01
+1068,2023,2,Mendoza,Dial_Up,755.0,2023-04-01
+1069,2023,2,Misiones,Dial_Up,0.0,2023-04-01
+1070,2023,2,Neuquén,Dial_Up,457.0,2023-04-01
+1071,2023,2,Río Negro,Dial_Up,531.0,2023-04-01
+1072,2023,2,Salta,Dial_Up,5.0,2023-04-01
+1073,2023,2,San Juan,Dial_Up,260.0,2023-04-01
+1074,2023,2,San Luis,Dial_Up,173.0,2023-04-01
+1075,2023,2,Santa Cruz,Dial_Up,192.0,2023-04-01
+1076,2023,2,Santa Fe,Dial_Up,108.0,2023-04-01
+1077,2023,2,Santiago Del Estero,Dial_Up,2.0,2023-04-01
+1078,2023,2,Tierra Del Fuego,Dial_Up,310.0,2023-04-01
+1079,2023,2,Tucumán,Dial_Up,29.0,2023-04-01
+1080,2023,1,Buenos Aires,Dial_Up,6.199,2023-01-01
+1081,2023,1,Capital Federal,Dial_Up,2.145,2023-01-01
+1082,2023,1,Catamarca,Dial_Up,1.0,2023-01-01
+1083,2023,1,Chaco,Dial_Up,5.0,2023-01-01
+1085,2023,1,Córdoba,Dial_Up,68.0,2023-01-01
+1086,2023,1,Corrientes,Dial_Up,4.0,2023-01-01
+1087,2023,1,Entre Ríos,Dial_Up,22.0,2023-01-01
+1088,2023,1,Formosa,Dial_Up,0.0,2023-01-01
+1089,2023,1,Jujuy,Dial_Up,0.0,2023-01-01
+1090,2023,1,La Pampa,Dial_Up,171.0,2023-01-01
+1091,2023,1,La Rioja,Dial_Up,4.0,2023-01-01
+1093,2023,1,Misiones,Dial_Up,0.0,2023-01-01
+1094,2023,1,Neuquén,Dial_Up,468.0,2023-01-01
+1095,2023,1,Río Negro,Dial_Up,548.0,2023-01-01
+1096,2023,1,Salta,Dial_Up,5.0,2023-01-01
+1097,2023,1,San Juan,Dial_Up,281.0,2023-01-01
+1098,2023,1,San Luis,Dial_Up,182.0,2023-01-01
+1099,2023,1,Santa Cruz,Dial_Up,198.0,2023-01-01
+1100,2023,1,Santa Fe,Dial_Up,110.0,2023-01-01
+1101,2023,1,Santiago Del Estero,Dial_Up,2.0,2023-01-01
+1102,2023,1,Tierra Del Fuego,Dial_Up,312.0,2023-01-01
+1103,2023,1,Tucumán,Dial_Up,30.0,2023-01-01
+1104,2022,4,Buenos Aires,Dial_Up,6.199,2022-10-01
+1105,2022,4,Capital Federal,Dial_Up,2.145,2022-10-01
+1106,2022,4,Catamarca,Dial_Up,1.0,2022-10-01
+1107,2022,4,Chaco,Dial_Up,5.0,2022-10-01
+1109,2022,4,Córdoba,Dial_Up,68.0,2022-10-01
+1110,2022,4,Corrientes,Dial_Up,4.0,2022-10-01
+1111,2022,4,Entre Ríos,Dial_Up,22.0,2022-10-01
+1112,2022,4,Formosa,Dial_Up,0.0,2022-10-01
+1113,2022,4,Jujuy,Dial_Up,0.0,2022-10-01
+1114,2022,4,La Pampa,Dial_Up,171.0,2022-10-01
+1115,2022,4,La Rioja,Dial_Up,4.0,2022-10-01
+1117,2022,4,Misiones,Dial_Up,0.0,2022-10-01
+1118,2022,4,Neuquén,Dial_Up,468.0,2022-10-01
+1119,2022,4,Río Negro,Dial_Up,548.0,2022-10-01
+1120,2022,4,Salta,Dial_Up,5.0,2022-10-01
+1121,2022,4,San Juan,Dial_Up,281.0,2022-10-01
+1122,2022,4,San Luis,Dial_Up,192.0,2022-10-01
+1123,2022,4,Santa Cruz,Dial_Up,198.0,2022-10-01
+1124,2022,4,Santa Fe,Dial_Up,110.0,2022-10-01
+1125,2022,4,Santiago Del Estero,Dial_Up,2.0,2022-10-01
+1126,2022,4,Tierra Del Fuego,Dial_Up,312.0,2022-10-01
+1127,2022,4,Tucumán,Dial_Up,30.0,2022-10-01
+1128,2022,3,Buenos Aires,Dial_Up,6.199,2022-07-01
+1129,2022,3,Capital Federal,Dial_Up,2.145,2022-07-01
+1130,2022,3,Catamarca,Dial_Up,1.0,2022-07-01
+1131,2022,3,Chaco,Dial_Up,5.0,2022-07-01
+1133,2022,3,Córdoba,Dial_Up,68.0,2022-07-01
+1134,2022,3,Corrientes,Dial_Up,4.0,2022-07-01
+1135,2022,3,Entre Ríos,Dial_Up,22.0,2022-07-01
+1136,2022,3,Formosa,Dial_Up,1.0,2022-07-01
+1137,2022,3,Jujuy,Dial_Up,0.0,2022-07-01
+1138,2022,3,La Pampa,Dial_Up,171.0,2022-07-01
+1139,2022,3,La Rioja,Dial_Up,4.0,2022-07-01
+1141,2022,3,Misiones,Dial_Up,0.0,2022-07-01
+1142,2022,3,Neuquén,Dial_Up,468.0,2022-07-01
+1143,2022,3,Río Negro,Dial_Up,548.0,2022-07-01
+1144,2022,3,Salta,Dial_Up,5.0,2022-07-01
+1145,2022,3,San Juan,Dial_Up,281.0,2022-07-01
+1146,2022,3,San Luis,Dial_Up,182.0,2022-07-01
+1147,2022,3,Santa Cruz,Dial_Up,198.0,2022-07-01
+1148,2022,3,Santa Fe,Dial_Up,110.0,2022-07-01
+1149,2022,3,Santiago Del Estero,Dial_Up,2.0,2022-07-01
+1150,2022,3,Tierra Del Fuego,Dial_Up,312.0,2022-07-01
+1151,2022,3,Tucumán,Dial_Up,30.0,2022-07-01
+1152,2022,2,Buenos Aires,Dial_Up,6.199,2022-04-01
+1153,2022,2,Capital Federal,Dial_Up,2.145,2022-04-01
+1154,2022,2,Catamarca,Dial_Up,1.0,2022-04-01
+1155,2022,2,Chaco,Dial_Up,5.0,2022-04-01
+1157,2022,2,Córdoba,Dial_Up,68.0,2022-04-01
+1158,2022,2,Corrientes,Dial_Up,4.0,2022-04-01
+1159,2022,2,Entre Ríos,Dial_Up,22.0,2022-04-01
+1160,2022,2,Formosa,Dial_Up,0.0,2022-04-01
+1161,2022,2,Jujuy,Dial_Up,0.0,2022-04-01
+1162,2022,2,La Pampa,Dial_Up,171.0,2022-04-01
+1163,2022,2,La Rioja,Dial_Up,4.0,2022-04-01
+1165,2022,2,Misiones,Dial_Up,0.0,2022-04-01
+1166,2022,2,Neuquén,Dial_Up,468.0,2022-04-01
+1167,2022,2,Río Negro,Dial_Up,548.0,2022-04-01
+1168,2022,2,Salta,Dial_Up,5.0,2022-04-01
+1169,2022,2,San Juan,Dial_Up,281.0,2022-04-01
+1170,2022,2,San Luis,Dial_Up,182.0,2022-04-01
+1171,2022,2,Santa Cruz,Dial_Up,198.0,2022-04-01
+1172,2022,2,Santa Fe,Dial_Up,110.0,2022-04-01
+1173,2022,2,Santiago Del Estero,Dial_Up,2.0,2022-04-01
+1174,2022,2,Tierra Del Fuego,Dial_Up,312.0,2022-04-01
+1175,2022,2,Tucumán,Dial_Up,30.0,2022-04-01
+1176,2022,1,Buenos Aires,Dial_Up,6.293,2022-01-01
+1177,2022,1,Capital Federal,Dial_Up,2.163,2022-01-01
+1178,2022,1,Catamarca,Dial_Up,1.0,2022-01-01
+1179,2022,1,Chaco,Dial_Up,5.0,2022-01-01
+1181,2022,1,Córdoba,Dial_Up,74.0,2022-01-01
+1182,2022,1,Corrientes,Dial_Up,4.0,2022-01-01
+1183,2022,1,Entre Ríos,Dial_Up,22.0,2022-01-01
+1184,2022,1,Formosa,Dial_Up,0.0,2022-01-01
+1185,2022,1,Jujuy,Dial_Up,0.0,2022-01-01
+1186,2022,1,La Pampa,Dial_Up,172.0,2022-01-01
+1187,2022,1,La Rioja,Dial_Up,4.0,2022-01-01
+1189,2022,1,Misiones,Dial_Up,0.0,2022-01-01
+1190,2022,1,Neuquén,Dial_Up,471.0,2022-01-01
+1191,2022,1,Río Negro,Dial_Up,553.0,2022-01-01
+1192,2022,1,Salta,Dial_Up,5.0,2022-01-01
+1193,2022,1,San Juan,Dial_Up,290.0,2022-01-01
+1194,2022,1,San Luis,Dial_Up,185.0,2022-01-01
+1195,2022,1,Santa Cruz,Dial_Up,204.0,2022-01-01
+1196,2022,1,Santa Fe,Dial_Up,115.0,2022-01-01
+1197,2022,1,Santiago Del Estero,Dial_Up,2.0,2022-01-01
+1198,2022,1,Tierra Del Fuego,Dial_Up,313.0,2022-01-01
+1199,2022,1,Tucumán,Dial_Up,30.0,2022-01-01
+1200,2021,4,Buenos Aires,Dial_Up,6.385,2021-10-01
+1201,2021,4,Capital Federal,Dial_Up,2.184,2021-10-01
+1202,2021,4,Catamarca,Dial_Up,1.0,2021-10-01
+1203,2021,4,Chaco,Dial_Up,5.0,2021-10-01
+1205,2021,4,Córdoba,Dial_Up,77.0,2021-10-01
+1206,2021,4,Corrientes,Dial_Up,4.0,2021-10-01
+1207,2021,4,Entre Ríos,Dial_Up,22.0,2021-10-01
+1208,2021,4,Formosa,Dial_Up,0.0,2021-10-01
+1209,2021,4,Jujuy,Dial_Up,0.0,2021-10-01
+1210,2021,4,La Pampa,Dial_Up,173.0,2021-10-01
+1211,2021,4,La Rioja,Dial_Up,4.0,2021-10-01
+1213,2021,4,Misiones,Dial_Up,0.0,2021-10-01
+1214,2021,4,Neuquén,Dial_Up,477.0,2021-10-01
+1215,2021,4,Río Negro,Dial_Up,564.0,2021-10-01
+1216,2021,4,Salta,Dial_Up,6.0,2021-10-01
+1217,2021,4,San Juan,Dial_Up,291.0,2021-10-01
+1218,2021,4,San Luis,Dial_Up,187.0,2021-10-01
+1219,2021,4,Santa Cruz,Dial_Up,210.0,2021-10-01
+1220,2021,4,Santa Fe,Dial_Up,176.0,2021-10-01
+1221,2021,4,Santiago Del Estero,Dial_Up,2.0,2021-10-01
+1222,2021,4,Tierra Del Fuego,Dial_Up,315.0,2021-10-01
+1223,2021,4,Tucumán,Dial_Up,30.0,2021-10-01
+1224,2021,3,Buenos Aires,Dial_Up,5.184,2021-07-01
+1225,2021,3,Capital Federal,Dial_Up,1.608,2021-07-01
+1226,2021,3,Catamarca,Dial_Up,1.0,2021-07-01
+1227,2021,3,Chaco,Dial_Up,3.0,2021-07-01
+1229,2021,3,Córdoba,Dial_Up,62.0,2021-07-01
+1230,2021,3,Corrientes,Dial_Up,3.0,2021-07-01
+1231,2021,3,Entre Ríos,Dial_Up,15.0,2021-07-01
+1232,2021,3,Formosa,Dial_Up,0.0,2021-07-01
+1233,2021,3,Jujuy,Dial_Up,0.0,2021-07-01
+1234,2021,3,La Pampa,Dial_Up,116.0,2021-07-01
+1235,2021,3,La Rioja,Dial_Up,3.0,2021-07-01
+1236,2021,3,Mendoza,Dial_Up,619.0,2021-07-01
+1237,2021,3,Misiones,Dial_Up,0.0,2021-07-01
+1238,2021,3,Neuquén,Dial_Up,373.0,2021-07-01
+1239,2021,3,Río Negro,Dial_Up,501.0,2021-07-01
+1240,2021,3,Salta,Dial_Up,2.0,2021-07-01
+1241,2021,3,San Juan,Dial_Up,256.0,2021-07-01
+1242,2021,3,San Luis,Dial_Up,148.0,2021-07-01
+1243,2021,3,Santa Cruz,Dial_Up,197.0,2021-07-01
+1244,2021,3,Santa Fe,Dial_Up,151.0,2021-07-01
+1245,2021,3,Santiago Del Estero,Dial_Up,1.0,2021-07-01
+1246,2021,3,Tierra Del Fuego,Dial_Up,289.0,2021-07-01
+1247,2021,3,Tucumán,Dial_Up,25.0,2021-07-01
+1248,2021,2,Buenos Aires,Dial_Up,5.184,2021-04-01
+1249,2021,2,Capital Federal,Dial_Up,1.608,2021-04-01
+1250,2021,2,Catamarca,Dial_Up,1.0,2021-04-01
+1251,2021,2,Chaco,Dial_Up,3.0,2021-04-01
+1253,2021,2,Córdoba,Dial_Up,62.0,2021-04-01
+1254,2021,2,Corrientes,Dial_Up,3.0,2021-04-01
+1255,2021,2,Entre Ríos,Dial_Up,15.0,2021-04-01
+1256,2021,2,Formosa,Dial_Up,0.0,2021-04-01
+1257,2021,2,Jujuy,Dial_Up,0.0,2021-04-01
+1258,2021,2,La Pampa,Dial_Up,116.0,2021-04-01
+1259,2021,2,La Rioja,Dial_Up,3.0,2021-04-01
+1260,2021,2,Mendoza,Dial_Up,619.0,2021-04-01
+1261,2021,2,Misiones,Dial_Up,0.0,2021-04-01
+1262,2021,2,Neuquén,Dial_Up,373.0,2021-04-01
+1263,2021,2,Río Negro,Dial_Up,501.0,2021-04-01
+1264,2021,2,Salta,Dial_Up,2.0,2021-04-01
+1265,2021,2,San Juan,Dial_Up,256.0,2021-04-01
+1266,2021,2,San Luis,Dial_Up,148.0,2021-04-01
+1267,2021,2,Santa Cruz,Dial_Up,197.0,2021-04-01
+1268,2021,2,Santa Fe,Dial_Up,151.0,2021-04-01
+1269,2021,2,Santiago Del Estero,Dial_Up,1.0,2021-04-01
+1270,2021,2,Tierra Del Fuego,Dial_Up,289.0,2021-04-01
+1271,2021,2,Tucumán,Dial_Up,25.0,2021-04-01
+1272,2021,1,Buenos Aires,Dial_Up,5.066,2021-01-01
+1273,2021,1,Capital Federal,Dial_Up,1.39,2021-01-01
+1274,2021,1,Catamarca,Dial_Up,1.0,2021-01-01
+1275,2021,1,Chaco,Dial_Up,3.0,2021-01-01
+1277,2021,1,Córdoba,Dial_Up,55.0,2021-01-01
+1278,2021,1,Corrientes,Dial_Up,3.0,2021-01-01
+1279,2021,1,Entre Ríos,Dial_Up,13.0,2021-01-01
+1280,2021,1,Formosa,Dial_Up,0.0,2021-01-01
+1281,2021,1,Jujuy,Dial_Up,0.0,2021-01-01
+1282,2021,1,La Pampa,Dial_Up,116.0,2021-01-01
+1283,2021,1,La Rioja,Dial_Up,3.0,2021-01-01
+1284,2021,1,Mendoza,Dial_Up,615.0,2021-01-01
+1285,2021,1,Misiones,Dial_Up,0.0,2021-01-01
+1286,2021,1,Neuquén,Dial_Up,373.0,2021-01-01
+1287,2021,1,Río Negro,Dial_Up,501.0,2021-01-01
+1288,2021,1,Salta,Dial_Up,2.0,2021-01-01
+1289,2021,1,San Juan,Dial_Up,256.0,2021-01-01
+1290,2021,1,San Luis,Dial_Up,148.0,2021-01-01
+1291,2021,1,Santa Cruz,Dial_Up,197.0,2021-01-01
+1292,2021,1,Santa Fe,Dial_Up,137.0,2021-01-01
+1293,2021,1,Santiago Del Estero,Dial_Up,1.0,2021-01-01
+1294,2021,1,Tierra Del Fuego,Dial_Up,289.0,2021-01-01
+1295,2021,1,Tucumán,Dial_Up,22.0,2021-01-01
+1296,2020,4,Buenos Aires,Dial_Up,5.066,2020-10-01
+1297,2020,4,Capital Federal,Dial_Up,1.39,2020-10-01
+1298,2020,4,Catamarca,Dial_Up,1.0,2020-10-01
+1299,2020,4,Chaco,Dial_Up,3.0,2020-10-01
+1301,2020,4,Córdoba,Dial_Up,55.0,2020-10-01
+1302,2020,4,Corrientes,Dial_Up,3.0,2020-10-01
+1303,2020,4,Entre Ríos,Dial_Up,13.0,2020-10-01
+1304,2020,4,Formosa,Dial_Up,0.0,2020-10-01
+1305,2020,4,Jujuy,Dial_Up,0.0,2020-10-01
+1306,2020,4,La Pampa,Dial_Up,116.0,2020-10-01
+1307,2020,4,La Rioja,Dial_Up,3.0,2020-10-01
+1308,2020,4,Mendoza,Dial_Up,615.0,2020-10-01
+1309,2020,4,Misiones,Dial_Up,0.0,2020-10-01
+1310,2020,4,Neuquén,Dial_Up,373.0,2020-10-01
+1311,2020,4,Río Negro,Dial_Up,501.0,2020-10-01
+1312,2020,4,Salta,Dial_Up,2.0,2020-10-01
+1313,2020,4,San Juan,Dial_Up,256.0,2020-10-01
+1314,2020,4,San Luis,Dial_Up,148.0,2020-10-01
+1315,2020,4,Santa Cruz,Dial_Up,197.0,2020-10-01
+1316,2020,4,Santa Fe,Dial_Up,137.0,2020-10-01
+1317,2020,4,Santiago Del Estero,Dial_Up,1.0,2020-10-01
+1318,2020,4,Tierra Del Fuego,Dial_Up,289.0,2020-10-01
+1319,2020,4,Tucumán,Dial_Up,22.0,2020-10-01
+1320,2020,3,Buenos Aires,Dial_Up,5.066,2020-07-01
+1321,2020,3,Capital Federal,Dial_Up,1.39,2020-07-01
+1322,2020,3,Catamarca,Dial_Up,1.0,2020-07-01
+1323,2020,3,Chaco,Dial_Up,3.0,2020-07-01
+1325,2020,3,Córdoba,Dial_Up,55.0,2020-07-01
+1326,2020,3,Corrientes,Dial_Up,3.0,2020-07-01
+1327,2020,3,Entre Ríos,Dial_Up,13.0,2020-07-01
+1328,2020,3,Formosa,Dial_Up,0.0,2020-07-01
+1329,2020,3,Jujuy,Dial_Up,0.0,2020-07-01
+1330,2020,3,La Pampa,Dial_Up,116.0,2020-07-01
+1331,2020,3,La Rioja,Dial_Up,3.0,2020-07-01
+1332,2020,3,Mendoza,Dial_Up,615.0,2020-07-01
+1333,2020,3,Misiones,Dial_Up,0.0,2020-07-01
+1334,2020,3,Neuquén,Dial_Up,373.0,2020-07-01
+1335,2020,3,Río Negro,Dial_Up,501.0,2020-07-01
+1336,2020,3,Salta,Dial_Up,2.0,2020-07-01
+1337,2020,3,San Juan,Dial_Up,256.0,2020-07-01
+1338,2020,3,San Luis,Dial_Up,148.0,2020-07-01
+1339,2020,3,Santa Cruz,Dial_Up,197.0,2020-07-01
+1340,2020,3,Santa Fe,Dial_Up,137.0,2020-07-01
+1341,2020,3,Santiago Del Estero,Dial_Up,1.0,2020-07-01
+1342,2020,3,Tierra Del Fuego,Dial_Up,289.0,2020-07-01
+1343,2020,3,Tucumán,Dial_Up,22.0,2020-07-01
+1344,2020,2,Buenos Aires,Dial_Up,5.066,2020-04-01
+1345,2020,2,Capital Federal,Dial_Up,1.39,2020-04-01
+1346,2020,2,Catamarca,Dial_Up,1.0,2020-04-01
+1347,2020,2,Chaco,Dial_Up,3.0,2020-04-01
+1349,2020,2,Córdoba,Dial_Up,55.0,2020-04-01
+1350,2020,2,Corrientes,Dial_Up,3.0,2020-04-01
+1351,2020,2,Entre Ríos,Dial_Up,13.0,2020-04-01
+1352,2020,2,Formosa,Dial_Up,0.0,2020-04-01
+1353,2020,2,Jujuy,Dial_Up,0.0,2020-04-01
+1354,2020,2,La Pampa,Dial_Up,116.0,2020-04-01
+1355,2020,2,La Rioja,Dial_Up,3.0,2020-04-01
+1356,2020,2,Mendoza,Dial_Up,615.0,2020-04-01
+1357,2020,2,Misiones,Dial_Up,0.0,2020-04-01
+1358,2020,2,Neuquén,Dial_Up,373.0,2020-04-01
+1359,2020,2,Río Negro,Dial_Up,501.0,2020-04-01
+1360,2020,2,Salta,Dial_Up,2.0,2020-04-01
+1361,2020,2,San Juan,Dial_Up,256.0,2020-04-01
+1362,2020,2,San Luis,Dial_Up,148.0,2020-04-01
+1363,2020,2,Santa Cruz,Dial_Up,197.0,2020-04-01
+1364,2020,2,Santa Fe,Dial_Up,137.0,2020-04-01
+1365,2020,2,Santiago Del Estero,Dial_Up,1.0,2020-04-01
+1366,2020,2,Tierra Del Fuego,Dial_Up,289.0,2020-04-01
+1367,2020,2,Tucumán,Dial_Up,22.0,2020-04-01
+1368,2020,1,Buenos Aires,Dial_Up,5.066,2020-01-01
+1369,2020,1,Capital Federal,Dial_Up,1.39,2020-01-01
+1370,2020,1,Catamarca,Dial_Up,1.0,2020-01-01
+1371,2020,1,Chaco,Dial_Up,3.0,2020-01-01
+1373,2020,1,Córdoba,Dial_Up,55.0,2020-01-01
+1374,2020,1,Corrientes,Dial_Up,3.0,2020-01-01
+1375,2020,1,Entre Ríos,Dial_Up,13.0,2020-01-01
+1376,2020,1,Formosa,Dial_Up,0.0,2020-01-01
+1377,2020,1,Jujuy,Dial_Up,0.0,2020-01-01
+1378,2020,1,La Pampa,Dial_Up,116.0,2020-01-01
+1379,2020,1,La Rioja,Dial_Up,3.0,2020-01-01
+1380,2020,1,Mendoza,Dial_Up,615.0,2020-01-01
+1381,2020,1,Misiones,Dial_Up,0.0,2020-01-01
+1382,2020,1,Neuquén,Dial_Up,373.0,2020-01-01
+1383,2020,1,Río Negro,Dial_Up,501.0,2020-01-01
+1384,2020,1,Salta,Dial_Up,2.0,2020-01-01
+1385,2020,1,San Juan,Dial_Up,256.0,2020-01-01
+1386,2020,1,San Luis,Dial_Up,148.0,2020-01-01
+1387,2020,1,Santa Cruz,Dial_Up,197.0,2020-01-01
+1388,2020,1,Santa Fe,Dial_Up,137.0,2020-01-01
+1389,2020,1,Santiago Del Estero,Dial_Up,1.0,2020-01-01
+1390,2020,1,Tierra Del Fuego,Dial_Up,289.0,2020-01-01
+1391,2020,1,Tucumán,Dial_Up,22.0,2020-01-01
+1392,2019,4,Buenos Aires,Dial_Up,5.134,2019-10-01
+1393,2019,4,Capital Federal,Dial_Up,1.41,2019-10-01
+1394,2019,4,Catamarca,Dial_Up,1.0,2019-10-01
+1395,2019,4,Chaco,Dial_Up,3.0,2019-10-01
+1397,2019,4,Córdoba,Dial_Up,55.0,2019-10-01
+1398,2019,4,Corrientes,Dial_Up,3.0,2019-10-01
+1399,2019,4,Entre Ríos,Dial_Up,13.0,2019-10-01
+1400,2019,4,Formosa,Dial_Up,0.0,2019-10-01
+1401,2019,4,Jujuy,Dial_Up,0.0,2019-10-01
+1402,2019,4,La Pampa,Dial_Up,119.0,2019-10-01
+1403,2019,4,La Rioja,Dial_Up,3.0,2019-10-01
+1404,2019,4,Mendoza,Dial_Up,623.0,2019-10-01
+1405,2019,4,Misiones,Dial_Up,0.0,2019-10-01
+1406,2019,4,Neuquén,Dial_Up,376.0,2019-10-01
+1407,2019,4,Río Negro,Dial_Up,504.0,2019-10-01
+1408,2019,4,Salta,Dial_Up,2.0,2019-10-01
+1409,2019,4,San Juan,Dial_Up,259.0,2019-10-01
+1410,2019,4,San Luis,Dial_Up,148.0,2019-10-01
+1411,2019,4,Santa Cruz,Dial_Up,200.0,2019-10-01
+1412,2019,4,Santa Fe,Dial_Up,150.0,2019-10-01
+1413,2019,4,Santiago Del Estero,Dial_Up,1.0,2019-10-01
+1414,2019,4,Tierra Del Fuego,Dial_Up,291.0,2019-10-01
+1415,2019,4,Tucumán,Dial_Up,23.0,2019-10-01
+1416,2019,3,Buenos Aires,Dial_Up,10.119,2019-07-01
+1417,2019,3,Capital Federal,Dial_Up,3.477,2019-07-01
+1418,2019,3,Catamarca,Dial_Up,9.0,2019-07-01
+1419,2019,3,Chaco,Dial_Up,13.0,2019-07-01
+1420,2019,3,Chubut,Dial_Up,1.524,2019-07-01
+1421,2019,3,Córdoba,Dial_Up,107.0,2019-07-01
+1422,2019,3,Corrientes,Dial_Up,10.0,2019-07-01
+1423,2019,3,Entre Ríos,Dial_Up,45.0,2019-07-01
+1424,2019,3,Formosa,Dial_Up,0.0,2019-07-01
+1425,2019,3,Jujuy,Dial_Up,1.0,2019-07-01
+1426,2019,3,La Pampa,Dial_Up,269.0,2019-07-01
+1427,2019,3,La Rioja,Dial_Up,18.0,2019-07-01
+1428,2019,3,Mendoza,Dial_Up,1.322,2019-07-01
+1429,2019,3,Misiones,Dial_Up,0.0,2019-07-01
+1430,2019,3,Neuquén,Dial_Up,1.986,2019-07-01
+1432,2019,3,Salta,Dial_Up,1.0,2019-07-01
+1433,2019,3,San Juan,Dial_Up,563.0,2019-07-01
+1434,2019,3,San Luis,Dial_Up,291.0,2019-07-01
+1435,2019,3,Santa Cruz,Dial_Up,328.0,2019-07-01
+1436,2019,3,Santa Fe,Dial_Up,228.0,2019-07-01
+1437,2019,3,Santiago Del Estero,Dial_Up,2.0,2019-07-01
+1438,2019,3,Tierra Del Fuego,Dial_Up,544.0,2019-07-01
+1439,2019,3,Tucumán,Dial_Up,32.0,2019-07-01
+1440,2019,2,Buenos Aires,Dial_Up,10.104,2019-04-01
+1441,2019,2,Capital Federal,Dial_Up,3.443,2019-04-01
+1442,2019,2,Catamarca,Dial_Up,9.0,2019-04-01
+1443,2019,2,Chaco,Dial_Up,13.0,2019-04-01
+1444,2019,2,Chubut,Dial_Up,1.518,2019-04-01
+1445,2019,2,Córdoba,Dial_Up,105.0,2019-04-01
+1446,2019,2,Corrientes,Dial_Up,10.0,2019-04-01
+1447,2019,2,Entre Ríos,Dial_Up,44.0,2019-04-01
+1448,2019,2,Formosa,Dial_Up,0.0,2019-04-01
+1449,2019,2,Jujuy,Dial_Up,1.0,2019-04-01
+1450,2019,2,La Pampa,Dial_Up,268.0,2019-04-01
+1451,2019,2,La Rioja,Dial_Up,18.0,2019-04-01
+1452,2019,2,Mendoza,Dial_Up,1.322,2019-04-01
+1453,2019,2,Misiones,Dial_Up,0.0,2019-04-01
+1454,2019,2,Neuquén,Dial_Up,1.999,2019-04-01
+1456,2019,2,Salta,Dial_Up,1.0,2019-04-01
+1457,2019,2,San Juan,Dial_Up,564.0,2019-04-01
+1458,2019,2,San Luis,Dial_Up,291.0,2019-04-01
+1459,2019,2,Santa Cruz,Dial_Up,325.0,2019-04-01
+1460,2019,2,Santa Fe,Dial_Up,226.0,2019-04-01
+1461,2019,2,Santiago Del Estero,Dial_Up,2.0,2019-04-01
+1462,2019,2,Tierra Del Fuego,Dial_Up,544.0,2019-04-01
+1463,2019,2,Tucumán,Dial_Up,32.0,2019-04-01
+1464,2019,1,Buenos Aires,Dial_Up,10.104,2019-01-01
+1465,2019,1,Capital Federal,Dial_Up,3.443,2019-01-01
+1466,2019,1,Catamarca,Dial_Up,9.0,2019-01-01
+1467,2019,1,Chaco,Dial_Up,13.0,2019-01-01
+1468,2019,1,Chubut,Dial_Up,1.518,2019-01-01
+1469,2019,1,Córdoba,Dial_Up,105.0,2019-01-01
+1470,2019,1,Corrientes,Dial_Up,10.0,2019-01-01
+1471,2019,1,Entre Ríos,Dial_Up,44.0,2019-01-01
+1472,2019,1,Formosa,Dial_Up,0.0,2019-01-01
+1473,2019,1,Jujuy,Dial_Up,1.0,2019-01-01
+1474,2019,1,La Pampa,Dial_Up,268.0,2019-01-01
+1475,2019,1,La Rioja,Dial_Up,18.0,2019-01-01
+1476,2019,1,Mendoza,Dial_Up,1.322,2019-01-01
+1477,2019,1,Misiones,Dial_Up,0.0,2019-01-01
+1478,2019,1,Neuquén,Dial_Up,2.056,2019-01-01
+1480,2019,1,Salta,Dial_Up,1.0,2019-01-01
+1481,2019,1,San Juan,Dial_Up,564.0,2019-01-01
+1482,2019,1,San Luis,Dial_Up,291.0,2019-01-01
+1483,2019,1,Santa Cruz,Dial_Up,325.0,2019-01-01
+1484,2019,1,Santa Fe,Dial_Up,227.0,2019-01-01
+1485,2019,1,Santiago Del Estero,Dial_Up,2.0,2019-01-01
+1486,2019,1,Tierra Del Fuego,Dial_Up,544.0,2019-01-01
+1487,2019,1,Tucumán,Dial_Up,32.0,2019-01-01
+1488,2018,4,Buenos Aires,Dial_Up,10.104,2018-10-01
+1489,2018,4,Capital Federal,Dial_Up,3.443,2018-10-01
+1490,2018,4,Catamarca,Dial_Up,9.0,2018-10-01
+1491,2018,4,Chaco,Dial_Up,13.0,2018-10-01
+1492,2018,4,Chubut,Dial_Up,1.518,2018-10-01
+1493,2018,4,Córdoba,Dial_Up,105.0,2018-10-01
+1494,2018,4,Corrientes,Dial_Up,10.0,2018-10-01
+1495,2018,4,Entre Ríos,Dial_Up,44.0,2018-10-01
+1496,2018,4,Formosa,Dial_Up,0.0,2018-10-01
+1497,2018,4,Jujuy,Dial_Up,1.0,2018-10-01
+1498,2018,4,La Pampa,Dial_Up,268.0,2018-10-01
+1499,2018,4,La Rioja,Dial_Up,18.0,2018-10-01
+1500,2018,4,Mendoza,Dial_Up,1.322,2018-10-01
+1501,2018,4,Misiones,Dial_Up,0.0,2018-10-01
+1502,2018,4,Neuquén,Dial_Up,2.056,2018-10-01
+1504,2018,4,Salta,Dial_Up,1.0,2018-10-01
+1505,2018,4,San Juan,Dial_Up,564.0,2018-10-01
+1506,2018,4,San Luis,Dial_Up,291.0,2018-10-01
+1507,2018,4,Santa Cruz,Dial_Up,325.0,2018-10-01
+1508,2018,4,Santa Fe,Dial_Up,229.0,2018-10-01
+1509,2018,4,Santiago Del Estero,Dial_Up,2.0,2018-10-01
+1510,2018,4,Tierra Del Fuego,Dial_Up,544.0,2018-10-01
+1511,2018,4,Tucumán,Dial_Up,32.0,2018-10-01
+1512,2018,3,Buenos Aires,Dial_Up,10.563,2018-07-01
+1513,2018,3,Capital Federal,Dial_Up,6.686,2018-07-01
+1514,2018,3,Catamarca,Dial_Up,11.0,2018-07-01
+1515,2018,3,Chaco,Dial_Up,12.0,2018-07-01
+1516,2018,3,Chubut,Dial_Up,2.426,2018-07-01
+1517,2018,3,Córdoba,Dial_Up,94.0,2018-07-01
+1518,2018,3,Corrientes,Dial_Up,11.0,2018-07-01
+1519,2018,3,Entre Ríos,Dial_Up,48.0,2018-07-01
+1520,2018,3,Formosa,Dial_Up,0.0,2018-07-01
+1521,2018,3,Jujuy,Dial_Up,1.0,2018-07-01
+1522,2018,3,La Pampa,Dial_Up,244.0,2018-07-01
+1523,2018,3,La Rioja,Dial_Up,17.0,2018-07-01
+1524,2018,3,Mendoza,Dial_Up,1.484,2018-07-01
+1525,2018,3,Misiones,Dial_Up,0.0,2018-07-01
+1526,2018,3,Neuquén,Dial_Up,2.005,2018-07-01
+1527,2018,3,Río Negro,Dial_Up,1.059,2018-07-01
+1528,2018,3,Salta,Dial_Up,1.0,2018-07-01
+1529,2018,3,San Juan,Dial_Up,658.0,2018-07-01
+1530,2018,3,San Luis,Dial_Up,300.0,2018-07-01
+1531,2018,3,Santa Cruz,Dial_Up,434.0,2018-07-01
+1532,2018,3,Santa Fe,Dial_Up,217.0,2018-07-01
+1533,2018,3,Santiago Del Estero,Dial_Up,2.0,2018-07-01
+1534,2018,3,Tierra Del Fuego,Dial_Up,508.0,2018-07-01
+1535,2018,3,Tucumán,Dial_Up,31.0,2018-07-01
+1536,2018,2,Buenos Aires,Dial_Up,10.565,2018-04-01
+1537,2018,2,Capital Federal,Dial_Up,6.688,2018-04-01
+1538,2018,2,Catamarca,Dial_Up,11.0,2018-04-01
+1539,2018,2,Chaco,Dial_Up,12.0,2018-04-01
+1540,2018,2,Chubut,Dial_Up,2.427,2018-04-01
+1541,2018,2,Córdoba,Dial_Up,94.0,2018-04-01
+1542,2018,2,Corrientes,Dial_Up,11.0,2018-04-01
+1543,2018,2,Entre Ríos,Dial_Up,48.0,2018-04-01
+1544,2018,2,Formosa,Dial_Up,0.0,2018-04-01
+1545,2018,2,Jujuy,Dial_Up,1.0,2018-04-01
+1546,2018,2,La Pampa,Dial_Up,244.0,2018-04-01
+1547,2018,2,La Rioja,Dial_Up,17.0,2018-04-01
+1548,2018,2,Mendoza,Dial_Up,1.484,2018-04-01
+1549,2018,2,Misiones,Dial_Up,0.0,2018-04-01
+1550,2018,2,Neuquén,Dial_Up,2.006,2018-04-01
+1551,2018,2,Río Negro,Dial_Up,1.059,2018-04-01
+1552,2018,2,Salta,Dial_Up,1.0,2018-04-01
+1553,2018,2,San Juan,Dial_Up,658.0,2018-04-01
+1554,2018,2,San Luis,Dial_Up,300.0,2018-04-01
+1555,2018,2,Santa Cruz,Dial_Up,435.0,2018-04-01
+1556,2018,2,Santa Fe,Dial_Up,309.0,2018-04-01
+1557,2018,2,Santiago Del Estero,Dial_Up,2.0,2018-04-01
+1558,2018,2,Tierra Del Fuego,Dial_Up,508.0,2018-04-01
+1559,2018,2,Tucumán,Dial_Up,31.0,2018-04-01
+1560,2018,1,Buenos Aires,Dial_Up,10.564,2018-01-01
+1561,2018,1,Capital Federal,Dial_Up,6.688,2018-01-01
+1562,2018,1,Catamarca,Dial_Up,11.0,2018-01-01
+1563,2018,1,Chaco,Dial_Up,12.0,2018-01-01
+1564,2018,1,Chubut,Dial_Up,2.427,2018-01-01
+1565,2018,1,Córdoba,Dial_Up,101.0,2018-01-01
+1566,2018,1,Corrientes,Dial_Up,11.0,2018-01-01
+1567,2018,1,Entre Ríos,Dial_Up,48.0,2018-01-01
+1568,2018,1,Formosa,Dial_Up,0.0,2018-01-01
+1569,2018,1,Jujuy,Dial_Up,1.0,2018-01-01
+1570,2018,1,La Pampa,Dial_Up,396.0,2018-01-01
+1571,2018,1,La Rioja,Dial_Up,17.0,2018-01-01
+1572,2018,1,Mendoza,Dial_Up,1.484,2018-01-01
+1573,2018,1,Misiones,Dial_Up,0.0,2018-01-01
+1574,2018,1,Neuquén,Dial_Up,2.006,2018-01-01
+1575,2018,1,Río Negro,Dial_Up,1.062,2018-01-01
+1576,2018,1,Salta,Dial_Up,1.0,2018-01-01
+1577,2018,1,San Juan,Dial_Up,658.0,2018-01-01
+1578,2018,1,San Luis,Dial_Up,300.0,2018-01-01
+1579,2018,1,Santa Cruz,Dial_Up,435.0,2018-01-01
+1580,2018,1,Santa Fe,Dial_Up,309.0,2018-01-01
+1581,2018,1,Santiago Del Estero,Dial_Up,2.0,2018-01-01
+1582,2018,1,Tierra Del Fuego,Dial_Up,508.0,2018-01-01
+1583,2018,1,Tucumán,Dial_Up,31.0,2018-01-01
+1584,2017,4,Buenos Aires,Dial_Up,10.69,2017-10-01
+1585,2017,4,Capital Federal,Dial_Up,6.906,2017-10-01
+1586,2017,4,Catamarca,Dial_Up,10.0,2017-10-01
+1587,2017,4,Chaco,Dial_Up,12.0,2017-10-01
+1588,2017,4,Chubut,Dial_Up,2.428,2017-10-01
+1589,2017,4,Córdoba,Dial_Up,105.0,2017-10-01
+1590,2017,4,Corrientes,Dial_Up,11.0,2017-10-01
+1591,2017,4,Entre Ríos,Dial_Up,49.0,2017-10-01
+1592,2017,4,Formosa,Dial_Up,0.0,2017-10-01
+1593,2017,4,Jujuy,Dial_Up,1.0,2017-10-01
+1594,2017,4,La Pampa,Dial_Up,396.0,2017-10-01
+1595,2017,4,La Rioja,Dial_Up,17.0,2017-10-01
+1596,2017,4,Mendoza,Dial_Up,1.49,2017-10-01
+1597,2017,4,Misiones,Dial_Up,0.0,2017-10-01
+1598,2017,4,Neuquén,Dial_Up,2.006,2017-10-01
+1599,2017,4,Río Negro,Dial_Up,1.062,2017-10-01
+1600,2017,4,Salta,Dial_Up,1.0,2017-10-01
+1601,2017,4,San Juan,Dial_Up,659.0,2017-10-01
+1602,2017,4,San Luis,Dial_Up,300.0,2017-10-01
+1603,2017,4,Santa Cruz,Dial_Up,434.0,2017-10-01
+1604,2017,4,Santa Fe,Dial_Up,323.0,2017-10-01
+1605,2017,4,Santiago Del Estero,Dial_Up,2.0,2017-10-01
+1606,2017,4,Tierra Del Fuego,Dial_Up,508.0,2017-10-01
+1607,2017,4,Tucumán,Dial_Up,34.0,2017-10-01
+1608,2017,3,Buenos Aires,Dial_Up,11.202,2017-07-01
+1609,2017,3,Capital Federal,Dial_Up,7.07,2017-07-01
+1610,2017,3,Catamarca,Dial_Up,11.0,2017-07-01
+1611,2017,3,Chaco,Dial_Up,12.0,2017-07-01
+1612,2017,3,Chubut,Dial_Up,2.477,2017-07-01
+1613,2017,3,Córdoba,Dial_Up,108.0,2017-07-01
+1614,2017,3,Corrientes,Dial_Up,12.0,2017-07-01
+1615,2017,3,Entre Ríos,Dial_Up,50.0,2017-07-01
+1616,2017,3,Formosa,Dial_Up,0.0,2017-07-01
+1617,2017,3,Jujuy,Dial_Up,1.0,2017-07-01
+1618,2017,3,La Pampa,Dial_Up,410.0,2017-07-01
+1619,2017,3,La Rioja,Dial_Up,17.0,2017-07-01
+1620,2017,3,Mendoza,Dial_Up,1.533,2017-07-01
+1621,2017,3,Misiones,Dial_Up,0.0,2017-07-01
+1622,2017,3,Neuquén,Dial_Up,2.029,2017-07-01
+1623,2017,3,Río Negro,Dial_Up,1.103,2017-07-01
+1624,2017,3,Salta,Dial_Up,1.0,2017-07-01
+1625,2017,3,San Juan,Dial_Up,660.0,2017-07-01
+1626,2017,3,San Luis,Dial_Up,311.0,2017-07-01
+1627,2017,3,Santa Cruz,Dial_Up,468.0,2017-07-01
+1628,2017,3,Santa Fe,Dial_Up,256.0,2017-07-01
+1629,2017,3,Santiago Del Estero,Dial_Up,2.0,2017-07-01
+1630,2017,3,Tierra Del Fuego,Dial_Up,583.0,2017-07-01
+1631,2017,3,Tucumán,Dial_Up,33.0,2017-07-01
+1632,2017,2,Buenos Aires,Dial_Up,11.201,2017-04-01
+1633,2017,2,Capital Federal,Dial_Up,8.016,2017-04-01
+1634,2017,2,Catamarca,Dial_Up,13.0,2017-04-01
+1635,2017,2,Chaco,Dial_Up,14.0,2017-04-01
+1636,2017,2,Chubut,Dial_Up,1.73,2017-04-01
+1637,2017,2,Córdoba,Dial_Up,133.0,2017-04-01
+1638,2017,2,Corrientes,Dial_Up,12.0,2017-04-01
+1639,2017,2,Entre Ríos,Dial_Up,57.0,2017-04-01
+1640,2017,2,Formosa,Dial_Up,0.0,2017-04-01
+1641,2017,2,Jujuy,Dial_Up,1.0,2017-04-01
+1642,2017,2,La Pampa,Dial_Up,449.0,2017-04-01
+1643,2017,2,La Rioja,Dial_Up,18.0,2017-04-01
+1644,2017,2,Mendoza,Dial_Up,1.451,2017-04-01
+1645,2017,2,Misiones,Dial_Up,0.0,2017-04-01
+1646,2017,2,Neuquén,Dial_Up,2.112,2017-04-01
+1648,2017,2,Salta,Dial_Up,1.0,2017-04-01
+1649,2017,2,San Juan,Dial_Up,620.0,2017-04-01
+1650,2017,2,San Luis,Dial_Up,315.0,2017-04-01
+1651,2017,2,Santa Cruz,Dial_Up,369.0,2017-04-01
+1652,2017,2,Santa Fe,Dial_Up,362.0,2017-04-01
+1653,2017,2,Santiago Del Estero,Dial_Up,2.0,2017-04-01
+1654,2017,2,Tierra Del Fuego,Dial_Up,619.0,2017-04-01
+1655,2017,2,Tucumán,Dial_Up,37.0,2017-04-01
+1656,2017,1,Buenos Aires,Dial_Up,11.202,2017-01-01
+1657,2017,1,Capital Federal,Dial_Up,8.016,2017-01-01
+1658,2017,1,Catamarca,Dial_Up,13.0,2017-01-01
+1659,2017,1,Chaco,Dial_Up,14.0,2017-01-01
+1660,2017,1,Chubut,Dial_Up,1.73,2017-01-01
+1661,2017,1,Córdoba,Dial_Up,133.0,2017-01-01
+1662,2017,1,Corrientes,Dial_Up,12.0,2017-01-01
+1663,2017,1,Entre Ríos,Dial_Up,57.0,2017-01-01
+1664,2017,1,Formosa,Dial_Up,0.0,2017-01-01
+1665,2017,1,Jujuy,Dial_Up,1.0,2017-01-01
+1666,2017,1,La Pampa,Dial_Up,455.0,2017-01-01
+1667,2017,1,La Rioja,Dial_Up,18.0,2017-01-01
+1668,2017,1,Mendoza,Dial_Up,1.451,2017-01-01
+1669,2017,1,Misiones,Dial_Up,0.0,2017-01-01
+1670,2017,1,Neuquén,Dial_Up,2.112,2017-01-01
+1671,2017,1,Río Negro,Dial_Up,1.0,2017-01-01
+1672,2017,1,Salta,Dial_Up,1.0,2017-01-01
+1673,2017,1,San Juan,Dial_Up,620.0,2017-01-01
+1674,2017,1,San Luis,Dial_Up,315.0,2017-01-01
+1675,2017,1,Santa Cruz,Dial_Up,370.0,2017-01-01
+1676,2017,1,Santa Fe,Dial_Up,362.0,2017-01-01
+1677,2017,1,Santiago Del Estero,Dial_Up,2.0,2017-01-01
+1678,2017,1,Tierra Del Fuego,Dial_Up,619.0,2017-01-01
+1679,2017,1,Tucumán,Dial_Up,37.0,2017-01-01
+1680,2016,4,Buenos Aires,Dial_Up,11.202,2016-10-01
+1681,2016,4,Capital Federal,Dial_Up,8.016,2016-10-01
+1682,2016,4,Catamarca,Dial_Up,13.0,2016-10-01
+1683,2016,4,Chaco,Dial_Up,14.0,2016-10-01
+1684,2016,4,Chubut,Dial_Up,1.73,2016-10-01
+1685,2016,4,Córdoba,Dial_Up,133.0,2016-10-01
+1686,2016,4,Corrientes,Dial_Up,12.0,2016-10-01
+1687,2016,4,Entre Ríos,Dial_Up,57.0,2016-10-01
+1688,2016,4,Formosa,Dial_Up,0.0,2016-10-01
+1689,2016,4,Jujuy,Dial_Up,1.0,2016-10-01
+1690,2016,4,La Pampa,Dial_Up,460.0,2016-10-01
+1691,2016,4,La Rioja,Dial_Up,18.0,2016-10-01
+1692,2016,4,Mendoza,Dial_Up,1.451,2016-10-01
+1693,2016,4,Misiones,Dial_Up,0.0,2016-10-01
+1694,2016,4,Neuquén,Dial_Up,2.112,2016-10-01
+1695,2016,4,Río Negro,Dial_Up,1.0,2016-10-01
+1696,2016,4,Salta,Dial_Up,1.0,2016-10-01
+1697,2016,4,San Juan,Dial_Up,620.0,2016-10-01
+1698,2016,4,San Luis,Dial_Up,315.0,2016-10-01
+1699,2016,4,Santa Cruz,Dial_Up,370.0,2016-10-01
+1700,2016,4,Santa Fe,Dial_Up,362.0,2016-10-01
+1701,2016,4,Santiago Del Estero,Dial_Up,2.0,2016-10-01
+1702,2016,4,Tierra Del Fuego,Dial_Up,619.0,2016-10-01
+1703,2016,4,Tucumán,Dial_Up,37.0,2016-10-01
+1704,2016,3,Buenos Aires,Dial_Up,11.205,2016-07-01
+1705,2016,3,Capital Federal,Dial_Up,8.051,2016-07-01
+1706,2016,3,Catamarca,Dial_Up,13.0,2016-07-01
+1707,2016,3,Chaco,Dial_Up,14.0,2016-07-01
+1708,2016,3,Chubut,Dial_Up,1.73,2016-07-01
+1709,2016,3,Córdoba,Dial_Up,133.0,2016-07-01
+1710,2016,3,Corrientes,Dial_Up,12.0,2016-07-01
+1711,2016,3,Entre Ríos,Dial_Up,57.0,2016-07-01
+1712,2016,3,Formosa,Dial_Up,0.0,2016-07-01
+1713,2016,3,Jujuy,Dial_Up,1.0,2016-07-01
+1714,2016,3,La Pampa,Dial_Up,461.0,2016-07-01
+1715,2016,3,La Rioja,Dial_Up,18.0,2016-07-01
+1716,2016,3,Mendoza,Dial_Up,1.45,2016-07-01
+1717,2016,3,Misiones,Dial_Up,0.0,2016-07-01
+1718,2016,3,Neuquén,Dial_Up,2.112,2016-07-01
+1719,2016,3,Río Negro,Dial_Up,1.002,2016-07-01
+1720,2016,3,Salta,Dial_Up,1.0,2016-07-01
+1721,2016,3,San Juan,Dial_Up,620.0,2016-07-01
+1722,2016,3,San Luis,Dial_Up,315.0,2016-07-01
+1723,2016,3,Santa Cruz,Dial_Up,371.0,2016-07-01
+1724,2016,3,Santa Fe,Dial_Up,386.0,2016-07-01
+1725,2016,3,Santiago Del Estero,Dial_Up,2.0,2016-07-01
+1726,2016,3,Tierra Del Fuego,Dial_Up,619.0,2016-07-01
+1727,2016,3,Tucumán,Dial_Up,37.0,2016-07-01
+1728,2016,2,Buenos Aires,Dial_Up,12.515,2016-04-01
+1729,2016,2,Capital Federal,Dial_Up,9.76,2016-04-01
+1730,2016,2,Catamarca,Dial_Up,13.0,2016-04-01
+1731,2016,2,Chaco,Dial_Up,16.0,2016-04-01
+1732,2016,2,Chubut,Dial_Up,1.74,2016-04-01
+1733,2016,2,Córdoba,Dial_Up,234.0,2016-04-01
+1734,2016,2,Corrientes,Dial_Up,24.0,2016-04-01
+1735,2016,2,Entre Ríos,Dial_Up,179.0,2016-04-01
+1736,2016,2,Formosa,Dial_Up,1.0,2016-04-01
+1737,2016,2,Jujuy,Dial_Up,2.0,2016-04-01
+1738,2016,2,La Pampa,Dial_Up,485.0,2016-04-01
+1739,2016,2,La Rioja,Dial_Up,18.0,2016-04-01
+1740,2016,2,Mendoza,Dial_Up,1.55,2016-04-01
+1741,2016,2,Misiones,Dial_Up,7.0,2016-04-01
+1742,2016,2,Neuquén,Dial_Up,2.291,2016-04-01
+1743,2016,2,Río Negro,Dial_Up,1.073,2016-04-01
+1744,2016,2,Salta,Dial_Up,3.0,2016-04-01
+1745,2016,2,San Juan,Dial_Up,621.0,2016-04-01
+1746,2016,2,San Luis,Dial_Up,317.0,2016-04-01
+1747,2016,2,Santa Cruz,Dial_Up,356.0,2016-04-01
+1748,2016,2,Santa Fe,Dial_Up,607.0,2016-04-01
+1749,2016,2,Santiago Del Estero,Dial_Up,3.0,2016-04-01
+1750,2016,2,Tierra Del Fuego,Dial_Up,619.0,2016-04-01
+1751,2016,2,Tucumán,Dial_Up,41.0,2016-04-01
+1752,2016,1,Buenos Aires,Dial_Up,12.612,2016-01-01
+1753,2016,1,Capital Federal,Dial_Up,9.817,2016-01-01
+1754,2016,1,Catamarca,Dial_Up,13.0,2016-01-01
+1755,2016,1,Chaco,Dial_Up,16.0,2016-01-01
+1756,2016,1,Chubut,Dial_Up,1.74,2016-01-01
+1757,2016,1,Córdoba,Dial_Up,234.0,2016-01-01
+1758,2016,1,Corrientes,Dial_Up,26.0,2016-01-01
+1759,2016,1,Entre Ríos,Dial_Up,179.0,2016-01-01
+1760,2016,1,Formosa,Dial_Up,1.0,2016-01-01
+1761,2016,1,Jujuy,Dial_Up,2.0,2016-01-01
+1762,2016,1,La Pampa,Dial_Up,487.0,2016-01-01
+1763,2016,1,La Rioja,Dial_Up,18.0,2016-01-01
+1764,2016,1,Mendoza,Dial_Up,1.553,2016-01-01
+1765,2016,1,Misiones,Dial_Up,7.0,2016-01-01
+1766,2016,1,Neuquén,Dial_Up,2.292,2016-01-01
+1767,2016,1,Río Negro,Dial_Up,1.077,2016-01-01
+1768,2016,1,Salta,Dial_Up,3.0,2016-01-01
+1769,2016,1,San Juan,Dial_Up,621.0,2016-01-01
+1770,2016,1,San Luis,Dial_Up,317.0,2016-01-01
+1771,2016,1,Santa Cruz,Dial_Up,356.0,2016-01-01
+1772,2016,1,Santa Fe,Dial_Up,618.0,2016-01-01
+1773,2016,1,Santiago Del Estero,Dial_Up,3.0,2016-01-01
+1774,2016,1,Tierra Del Fuego,Dial_Up,619.0,2016-01-01
+1775,2016,1,Tucumán,Dial_Up,41.0,2016-01-01
+1776,2015,4,Buenos Aires,Dial_Up,12.642,2015-10-01
+1777,2015,4,Capital Federal,Dial_Up,9.845,2015-10-01
+1778,2015,4,Catamarca,Dial_Up,13.0,2015-10-01
+1779,2015,4,Chaco,Dial_Up,16.0,2015-10-01
+1780,2015,4,Chubut,Dial_Up,1.74,2015-10-01
+1781,2015,4,Córdoba,Dial_Up,235.0,2015-10-01
+1782,2015,4,Corrientes,Dial_Up,26.0,2015-10-01
+1783,2015,4,Entre Ríos,Dial_Up,180.0,2015-10-01
+1784,2015,4,Formosa,Dial_Up,1.0,2015-10-01
+1785,2015,4,Jujuy,Dial_Up,2.0,2015-10-01
+1786,2015,4,La Pampa,Dial_Up,312.0,2015-10-01
+1787,2015,4,La Rioja,Dial_Up,18.0,2015-10-01
+1788,2015,4,Mendoza,Dial_Up,1.556,2015-10-01
+1789,2015,4,Misiones,Dial_Up,7.0,2015-10-01
+1790,2015,4,Neuquén,Dial_Up,2.294,2015-10-01
+1791,2015,4,Río Negro,Dial_Up,1.067,2015-10-01
+1792,2015,4,Salta,Dial_Up,3.0,2015-10-01
+1793,2015,4,San Juan,Dial_Up,621.0,2015-10-01
+1794,2015,4,San Luis,Dial_Up,317.0,2015-10-01
+1795,2015,4,Santa Cruz,Dial_Up,356.0,2015-10-01
+1796,2015,4,Santa Fe,Dial_Up,627.0,2015-10-01
+1797,2015,4,Santiago Del Estero,Dial_Up,3.0,2015-10-01
+1798,2015,4,Tierra Del Fuego,Dial_Up,619.0,2015-10-01
+1799,2015,4,Tucumán,Dial_Up,42.0,2015-10-01
+1800,2015,3,Buenos Aires,Dial_Up,12.695,2015-07-01
+1801,2015,3,Capital Federal,Dial_Up,9.875,2015-07-01
+1802,2015,3,Catamarca,Dial_Up,13.0,2015-07-01
+1803,2015,3,Chaco,Dial_Up,16.0,2015-07-01
+1804,2015,3,Chubut,Dial_Up,1.74,2015-07-01
+1805,2015,3,Córdoba,Dial_Up,237.0,2015-07-01
+1806,2015,3,Corrientes,Dial_Up,28.0,2015-07-01
+1807,2015,3,Entre Ríos,Dial_Up,182.0,2015-07-01
+1808,2015,3,Formosa,Dial_Up,1.0,2015-07-01
+1809,2015,3,Jujuy,Dial_Up,2.0,2015-07-01
+1810,2015,3,La Pampa,Dial_Up,495.0,2015-07-01
+1811,2015,3,La Rioja,Dial_Up,18.0,2015-07-01
+1812,2015,3,Mendoza,Dial_Up,1.562,2015-07-01
+1813,2015,3,Misiones,Dial_Up,7.0,2015-07-01
+1814,2015,3,Neuquén,Dial_Up,2.24,2015-07-01
+1815,2015,3,Río Negro,Dial_Up,1.085,2015-07-01
+1816,2015,3,Salta,Dial_Up,3.0,2015-07-01
+1817,2015,3,San Juan,Dial_Up,621.0,2015-07-01
+1818,2015,3,San Luis,Dial_Up,317.0,2015-07-01
+1819,2015,3,Santa Cruz,Dial_Up,359.0,2015-07-01
+1820,2015,3,Santa Fe,Dial_Up,641.0,2015-07-01
+1821,2015,3,Santiago Del Estero,Dial_Up,3.0,2015-07-01
+1822,2015,3,Tierra Del Fuego,Dial_Up,619.0,2015-07-01
+1823,2015,3,Tucumán,Dial_Up,42.0,2015-07-01
+1824,2015,2,Buenos Aires,Dial_Up,12.711,2015-04-01
+1825,2015,2,Capital Federal,Dial_Up,9.893,2015-04-01
+1826,2015,2,Catamarca,Dial_Up,13.0,2015-04-01
+1827,2015,2,Chaco,Dial_Up,16.0,2015-04-01
+1828,2015,2,Chubut,Dial_Up,1.74,2015-04-01
+1829,2015,2,Córdoba,Dial_Up,236.0,2015-04-01
+1830,2015,2,Corrientes,Dial_Up,28.0,2015-04-01
+1831,2015,2,Entre Ríos,Dial_Up,183.0,2015-04-01
+1832,2015,2,Formosa,Dial_Up,37.0,2015-04-01
+1833,2015,2,Jujuy,Dial_Up,2.0,2015-04-01
+1834,2015,2,La Pampa,Dial_Up,500.0,2015-04-01
+1835,2015,2,La Rioja,Dial_Up,18.0,2015-04-01
+1836,2015,2,Mendoza,Dial_Up,1.564,2015-04-01
+1837,2015,2,Misiones,Dial_Up,7.0,2015-04-01
+1838,2015,2,Neuquén,Dial_Up,2.241,2015-04-01
+1839,2015,2,Río Negro,Dial_Up,1.087,2015-04-01
+1840,2015,2,Salta,Dial_Up,3.0,2015-04-01
+1841,2015,2,San Juan,Dial_Up,621.0,2015-04-01
+1842,2015,2,San Luis,Dial_Up,317.0,2015-04-01
+1843,2015,2,Santa Cruz,Dial_Up,379.0,2015-04-01
+1844,2015,2,Santa Fe,Dial_Up,649.0,2015-04-01
+1845,2015,2,Santiago Del Estero,Dial_Up,3.0,2015-04-01
+1846,2015,2,Tierra Del Fuego,Dial_Up,619.0,2015-04-01
+1847,2015,2,Tucumán,Dial_Up,42.0,2015-04-01
+1848,2015,1,Buenos Aires,Dial_Up,14.766,2015-01-01
+1849,2015,1,Capital Federal,Dial_Up,11.582,2015-01-01
+1850,2015,1,Catamarca,Dial_Up,20.0,2015-01-01
+1851,2015,1,Chaco,Dial_Up,31.0,2015-01-01
+1852,2015,1,Chubut,Dial_Up,1.946,2015-01-01
+1853,2015,1,Córdoba,Dial_Up,294.0,2015-01-01
+1854,2015,1,Corrientes,Dial_Up,43.0,2015-01-01
+1855,2015,1,Entre Ríos,Dial_Up,231.0,2015-01-01
+1856,2015,1,Formosa,Dial_Up,43.0,2015-01-01
+1857,2015,1,Jujuy,Dial_Up,3.0,2015-01-01
+1858,2015,1,La Pampa,Dial_Up,542.0,2015-01-01
+1859,2015,1,La Rioja,Dial_Up,23.0,2015-01-01
+1860,2015,1,Mendoza,Dial_Up,1.805,2015-01-01
+1861,2015,1,Misiones,Dial_Up,7.0,2015-01-01
+1862,2015,1,Neuquén,Dial_Up,2.369,2015-01-01
+1863,2015,1,Río Negro,Dial_Up,1.188,2015-01-01
+1864,2015,1,Salta,Dial_Up,18.0,2015-01-01
+1865,2015,1,San Juan,Dial_Up,702.0,2015-01-01
+1866,2015,1,San Luis,Dial_Up,354.0,2015-01-01
+1867,2015,1,Santa Cruz,Dial_Up,424.0,2015-01-01
+1869,2015,1,Santiago Del Estero,Dial_Up,8.0,2015-01-01
+1870,2015,1,Tierra Del Fuego,Dial_Up,730.0,2015-01-01
+1871,2015,1,Tucumán,Dial_Up,92.0,2015-01-01
+1872,2014,4,Buenos Aires,Dial_Up,15.229,2014-10-01
+1873,2014,4,Capital Federal,Dial_Up,11.994,2014-10-01
+1874,2014,4,Catamarca,Dial_Up,21.0,2014-10-01
+1875,2014,4,Chaco,Dial_Up,37.0,2014-10-01
+1876,2014,4,Chubut,Dial_Up,1.985,2014-10-01
+1877,2014,4,Córdoba,Dial_Up,319.0,2014-10-01
+1878,2014,4,Corrientes,Dial_Up,54.0,2014-10-01
+1879,2014,4,Entre Ríos,Dial_Up,246.0,2014-10-01
+1880,2014,4,Formosa,Dial_Up,51.0,2014-10-01
+1881,2014,4,Jujuy,Dial_Up,3.0,2014-10-01
+1882,2014,4,La Pampa,Dial_Up,567.0,2014-10-01
+1883,2014,4,La Rioja,Dial_Up,23.0,2014-10-01
+1884,2014,4,Mendoza,Dial_Up,1.848,2014-10-01
+1885,2014,4,Misiones,Dial_Up,7.0,2014-10-01
+1886,2014,4,Neuquén,Dial_Up,2.397,2014-10-01
+1887,2014,4,Río Negro,Dial_Up,1.21,2014-10-01
+1888,2014,4,Salta,Dial_Up,26.0,2014-10-01
+1889,2014,4,San Juan,Dial_Up,729.0,2014-10-01
+1890,2014,4,San Luis,Dial_Up,359.0,2014-10-01
+1891,2014,4,Santa Cruz,Dial_Up,436.0,2014-10-01
+1893,2014,4,Santiago Del Estero,Dial_Up,9.0,2014-10-01
+1894,2014,4,Tierra Del Fuego,Dial_Up,741.0,2014-10-01
+1895,2014,4,Tucumán,Dial_Up,95.0,2014-10-01
+1896,2014,3,Buenos Aires,Dial_Up,14.028,2014-07-01
+1897,2014,3,Capital Federal,Dial_Up,10.63,2014-07-01
+1898,2014,3,Catamarca,Dial_Up,21.0,2014-07-01
+1899,2014,3,Chaco,Dial_Up,36.0,2014-07-01
+1900,2014,3,Chubut,Dial_Up,2.007,2014-07-01
+1901,2014,3,Córdoba,Dial_Up,200.0,2014-07-01
+1902,2014,3,Corrientes,Dial_Up,33.0,2014-07-01
+1903,2014,3,Entre Ríos,Dial_Up,115.0,2014-07-01
+1904,2014,3,Formosa,Dial_Up,64.0,2014-07-01
+1905,2014,3,Jujuy,Dial_Up,2.0,2014-07-01
+1906,2014,3,La Pampa,Dial_Up,564.0,2014-07-01
+1907,2014,3,La Rioja,Dial_Up,23.0,2014-07-01
+1908,2014,3,Mendoza,Dial_Up,1.74,2014-07-01
+1909,2014,3,Misiones,Dial_Up,0.0,2014-07-01
+1910,2014,3,Neuquén,Dial_Up,2.268,2014-07-01
+1911,2014,3,Río Negro,Dial_Up,1.151,2014-07-01
+1912,2014,3,Salta,Dial_Up,25.0,2014-07-01
+1913,2014,3,San Juan,Dial_Up,748.0,2014-07-01
+1914,2014,3,San Luis,Dial_Up,363.0,2014-07-01
+1915,2014,3,Santa Cruz,Dial_Up,446.0,2014-07-01
+1916,2014,3,Santa Fe,Dial_Up,691.0,2014-07-01
+1917,2014,3,Santiago Del Estero,Dial_Up,9.0,2014-07-01
+1918,2014,3,Tierra Del Fuego,Dial_Up,755.0,2014-07-01
+1919,2014,3,Tucumán,Dial_Up,88.0,2014-07-01
+1920,2014,2,Buenos Aires,Dial_Up,14.116,2014-04-01
+1921,2014,2,Capital Federal,Dial_Up,10.713,2014-04-01
+1922,2014,2,Catamarca,Dial_Up,23.0,2014-04-01
+1923,2014,2,Chaco,Dial_Up,36.0,2014-04-01
+1924,2014,2,Chubut,Dial_Up,2.016,2014-04-01
+1925,2014,2,Córdoba,Dial_Up,205.0,2014-04-01
+1926,2014,2,Corrientes,Dial_Up,33.0,2014-04-01
+1927,2014,2,Entre Ríos,Dial_Up,115.0,2014-04-01
+1928,2014,2,Formosa,Dial_Up,65.0,2014-04-01
+1929,2014,2,Jujuy,Dial_Up,2.0,2014-04-01
+1930,2014,2,La Pampa,Dial_Up,580.0,2014-04-01
+1931,2014,2,La Rioja,Dial_Up,23.0,2014-04-01
+1932,2014,2,Mendoza,Dial_Up,1.761,2014-04-01
+1933,2014,2,Misiones,Dial_Up,0.0,2014-04-01
+1934,2014,2,Neuquén,Dial_Up,2.235,2014-04-01
+1935,2014,2,Río Negro,Dial_Up,1.145,2014-04-01
+1936,2014,2,Salta,Dial_Up,25.0,2014-04-01
+1937,2014,2,San Juan,Dial_Up,755.0,2014-04-01
+1938,2014,2,San Luis,Dial_Up,364.0,2014-04-01
+1939,2014,2,Santa Cruz,Dial_Up,459.0,2014-04-01
+1940,2014,2,Santa Fe,Dial_Up,605.0,2014-04-01
+1941,2014,2,Santiago Del Estero,Dial_Up,9.0,2014-04-01
+1942,2014,2,Tierra Del Fuego,Dial_Up,766.0,2014-04-01
+1943,2014,2,Tucumán,Dial_Up,88.0,2014-04-01
+1944,2014,1,Buenos Aires,Dial_Up,14.144,2014-01-01
+1945,2014,1,Capital Federal,Dial_Up,10.714,2014-01-01
+1946,2014,1,Catamarca,Dial_Up,23.0,2014-01-01
+1947,2014,1,Chaco,Dial_Up,36.0,2014-01-01
+1948,2014,1,Chubut,Dial_Up,2.016,2014-01-01
+1949,2014,1,Córdoba,Dial_Up,205.0,2014-01-01
+1950,2014,1,Corrientes,Dial_Up,33.0,2014-01-01
+1951,2014,1,Entre Ríos,Dial_Up,115.0,2014-01-01
+1952,2014,1,Formosa,Dial_Up,87.0,2014-01-01
+1953,2014,1,Jujuy,Dial_Up,2.0,2014-01-01
+1954,2014,1,La Pampa,Dial_Up,592.0,2014-01-01
+1955,2014,1,La Rioja,Dial_Up,23.0,2014-01-01
+1956,2014,1,Mendoza,Dial_Up,1.761,2014-01-01
+1957,2014,1,Misiones,Dial_Up,0.0,2014-01-01
+1958,2014,1,Neuquén,Dial_Up,2.303,2014-01-01
+1959,2014,1,Río Negro,Dial_Up,1.157,2014-01-01
+1960,2014,1,Salta,Dial_Up,25.0,2014-01-01
+1961,2014,1,San Juan,Dial_Up,755.0,2014-01-01
+1962,2014,1,San Luis,Dial_Up,364.0,2014-01-01
+1963,2014,1,Santa Cruz,Dial_Up,460.0,2014-01-01
+1964,2014,1,Santa Fe,Dial_Up,612.0,2014-01-01
+1965,2014,1,Santiago Del Estero,Dial_Up,9.0,2014-01-01
+1966,2014,1,Tierra Del Fuego,Dial_Up,766.0,2014-01-01
+1967,2014,1,Tucumán,Dial_Up,88.0,2014-01-01
