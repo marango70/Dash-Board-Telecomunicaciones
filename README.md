@@ -81,7 +81,11 @@ Para cada Dataframe se realiza los siguiente:
 9. Se hace un describe para ver la información de estadísitica básica de las variables numéricas.
 10. En algunas tablas se requieren transformaciones especificos a los datos y se realzian según sea en caso.
 
+Finalmente, los archivos limpios y listos para ser utilizados en el dashboard son exportados en formato CSV en la carpeta /Data fuente Dashboard
+
 Nota:  👁️ Con el fin de Agilizar el proceso de Limpieza se crean las funciones.
+
+
 </p>
 
 **2. Análisis de Datos (EDA):**
@@ -90,14 +94,26 @@ Nota:  👁️ Con el fin de Agilizar el proceso de Limpieza se crean las funcio
 Para cada dataset se realiza un análisis gráfico. Los graficos se seleccionan de acuerdo con los datos a analizar. 
 Por ejemplo, para el dataset  **`data_Vel__sin_r`** que presenta la información sobre la velocidad de conexión a internet sin rangos específicos, se realizan las siguientes graficas:
 
-<img src ="//logo-henry-white-lg.png">
+La Variable numerica número de conexiones se grafica año a año con el fin de ver su tendencia en el tiempo. En la siguiente grafica se observa como la tendencia es decreciente.
 
+<img src ="/Imagenes/Grafica Ejemplo 1.png">
 
-De acuerdo con las características de cada variable, se realiza un
+</p>
+Se incluye tambien el detalle del número de conexiones por provincia, en este caso se filtran el paretto (20% de las provincias que generan el 80% de las conexiones):
 
+<img src ="/Imagenes/Grafica Ejemplo 2.png">
+
+👀 El detalle del análisis de cada dataset se puede ver en el notebook de python : **`Análisis de Datos.ipyn`** 
+👀 Las conclusiones del análisis se pueden ver en el apartado ANALISIS DE RESULTADOS Y CONCLUSIONES de este documento.
 
 
 **3. Generación del DashBoard:**
+
+El Dashboard se generó en la herramienta :atom: PowerBI :atom:. 
+Inicialmente se suben los archivos fuente con PowerQuery, donde se hace un ajuste en el formato de los datos. 
+Se crean las relaciones entre tablas y la tabla calendario (jerarquia de fechas), dejandolos listos para ser modelados.
+ 
+<img src ="/Imagenes/Grafica 3.png">
 
 ## ANALISIS DE RESULTADOS Y CONCLUSIONES: 
    </p>
