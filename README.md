@@ -104,16 +104,78 @@ Se incluye tambien el detalle del número de conexiones por provincia, en este c
 <img src ="/Imagenes/Grafica Ejemplo 2.png">
 
 👀 El detalle del análisis de cada dataset se puede ver en el notebook de python : **`Análisis de Datos.ipyn`** 
-👀 Las conclusiones del análisis se pueden ver en el apartado ANALISIS DE RESULTADOS Y CONCLUSIONES de este documento.
 
+***Conclusión EDA:*** 
+
+De la información suministrada encontramos:
+
+Los siguientes dataset nos dan un contexto de los datos pero al no tener escala de tiempo su información nos sirve para darnos contexto:
+
+- data_acc_vel_loc_sinr 
+- data_acc_tec_loc 
+
+Los siguientes Dataset nos presentan información muy completa y nos permite generar los KPI:
+
+- data_pen_hogares  
+- data_pen_poblacion 
+- data_ingresos
+- data_acc_por_tecn 
+
+</p>
+
+Los siguientes Dataset nos presentan información para calculo de otras métricas:
+
+- data_dial_BAf.to_csv('./Data fuente Dashboard/Dial-BAf.csv') 
+- data_Vel_sin_r.to_csv('./Data fuente Dashboard/Velocidad_sin_Rangos.csv')  # 2
+- data_vel_prc_prov.to_csv('./Data fuente Dashboard/Velocidad % por prov.csv')  # 3
+- data_total_VMD.to_csv('./Data fuente Dashboard/Totales VMD.csv')  # 4 
+
+</p>
+
+Finalment, encontramos información redundante la cual no se requiere en el dashboard:
+
+- data_total_Dial_BAf
+- data_pen_total
+- data_total_acc_por_vel
+- data_acc_por_vel
+
+</p>
 
 **3. Generación del DashBoard:**
 
 El Dashboard se generó en la herramienta :atom: PowerBI :atom:. 
 Inicialmente se suben los archivos fuente con PowerQuery, donde se hace un ajuste en el formato de los datos. 
 Se crean las relaciones entre tablas y la tabla calendario (jerarquia de fechas), dejandolos listos para ser modelados.
+
+En el dashboard se siguió el siguiente hilo conductor para su realización. Inicialmente se realiza una hoja de análisis para cada una de las variables seleccionadas. Finalmente se definen los 4 KPI y se resumen en una hoja inicial.
+</p>
+Hojas de Análisis de variables:
+</p>
+
+- **P. Hogares:** Se analiza a detalle la penetración entendida como el porcentaje de hogares o individuos que tienen acceso a internet en una determinada área geográfica, medida en términos de hogares.  En la parte superior se ve la evolución de este indicador trimestre a trimestre, en la parte inferior se muestra la info a modo de tabla y finalmente se grafica la variación porcentual trimestral del indicador. Esta hoja soporta el 1er KPI
+- **P. Población:** Se analiza a detalle la penetración alacceso a internet en términos de hogares.  En la parte superior se ve la evolución de este indicador trimestre a trimestre, en la parte inferior se muestra la info a modo de tabla y finalmente se grafica la variación porcentual trimestral del indicador. Esta hoja soporta el 2do KPI.
+- **Ingresos:** Los ingresos son un factor clave en el exito/fracaso de las compañias, por lo que siempre debe ser incluido en el Balanced Scored Card (BSC) de las mismas. En este caso, se grafica su evolución trimestral. La variacion trimestral de Ingresos se define como 3er KPI.
+- **Accesosp por Fibra Optica:** Se analiza el número de conexiones a internet registradas, a  través de las tecnologías ADSL, fibra óptica, cable módem, Wireless y Otros, con el fin de ver si comportamiento y poder detectar oportunidades en el mercado. Se seleccionan las conexiones por fibra optica por su rápido crécimiento en los últimos años en Argentina, adicionalmente es una tecnologia que ofrece velocidades de conexión mucho más altas y estables en comparación con otras tecnologías como ADSL y Cable Modem. Lo que es crucial para satisfacer la creciente demanda. De este sale el 4to y ultimo KPI.
+- **VMD:** Finalmente se analizan las conexiones por tecnologías obsoletas lo cual representa una oportunidas en la medida en que puedan ser reemplazados por fibra-optica. De esta hoja no se generó un KPI debido que la compañía no maneja directamente estas tecnologías.
+</p>
+
+- **Hoja Dashboard KPI´s:** Se diseña en una hoja con el resumen del cumplimiento de la meta de los KPI´s anteriormente mencionados.
+
+👀 DISCLAIMER: 👀 
+
+Los anteriores KPI se están calculando con la información del sector, y por tanto su utilidad sería la de monitorear el sector. 
+Para hacerlos aplicables a la compañía, requieren ser adaptados a las cifras propias de la compañía asi: 
+</p>
+
+- **Penetración Hogares:** por parte de los productos de internet de la compañía. La meta podria mantenerse en el valor estipulado. Su estrategia de cumplimiento deberia enfocarse en encontrar nuevos clientes.
+- **Penetración Población:** por parte de los productos de internet de la compañía, es complementario al de hogares, en la medida que se logre tener mas de un servicio de conexión por hogar. Su estrategia estaría marcada hacia incrementar los servicios en los clientes actuales.
+- **Ingresos:** Se medirían los ingresos operacionales de la compañía con metas puntuales definidas por geografia y producto en un marco de tiempo.
+- **Accesos por Fibra Optica:** En este indicador se requiere analizar la cantidad de accesos de los clientes de la compañia a través de la tecnología fibra optica. La estrategía se debe enfocar en reemplazar otras tecnologias, en clientes actuales o nuevos, por la de fibra óptica.
+  </p>
+
+ ## ANALISIS DE RESULTADOS Y CONCLUSIONES: 
  
 <img src ="/Imagenes/Grafica 3.png">
 
-## ANALISIS DE RESULTADOS Y CONCLUSIONES: 
+
    </p>
