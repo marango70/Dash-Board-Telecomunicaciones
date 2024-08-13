@@ -71,19 +71,29 @@ Una vez cargados los archivos como dataframe, se procede a visualizar la informa
 Para cada Dataframe se realiza los siguiente:
 </p>
 1. Ver información del número de filas y columnas, tipos de datos, nostrar los primeros registros de las tablas, nombres de las columnas y verificación de las filas duplicadas (de haberlas se eliminan).  ➡️ Función visualiza()
+</p>
 2. Reemplazar valores nulos de columnas numericas por zero. ➡️ Función nulos_por_ceros()
+</p>
 3. Limpia las columnas de texto correspondientes a variables categóricas eliminando espacios en blanco sobrantes y se convierte el texto a formato título. Los caracteres especiales como "*" se limpian según sea el caso. ➡️ Función limpia_texto()
+</p>
 4. Se cambian los nombres de las columnas eliminando espacios en blanco al principio y final, y separando palabras con _. ➡️ Función formatear_nombre_columnas()
+</p>
 5. Se verifica que las columnas con información numerica cómo número de Accesos, estén en formato número, de no ser asi, se les cambia el type.  ➡️ Función de_object_a_numerica()
+</p>
 6. Algunas tablas están un formato horizontal por lo que requieren ser transpuestas para lograr un mejor manejo y análisis de la data.
+</p>
 7. A las tablas con columnas de Año y Trimestre se les agrega una columna "Fecha" en formato datetime concatenando los datos de año y trimestre.
+</p>
 8. Se analizan y eliminan los outliets. Primero se presentan visualmente en un grafico de cajas y bigotes, y luego se analizan numericamente con la metodología de z-score. ➡️ Funciones grafico_outliers() , detectar_outliers() , eliminar_outliets()
+</p>
 9. Se hace un describe para ver la información de estadísitica básica de las variables numéricas.
+</p>
 10. En algunas tablas se requieren transformaciones especificos a los datos y se realzian según sea en caso.
+</p>
 
 Finalmente, los archivos limpios y listos para ser utilizados en el dashboard son exportados en formato CSV en la carpeta /Data fuente Dashboard
 
-Nota:  👁️ Con el fin de Agilizar el proceso de Limpieza se crean las funciones.
+Nota:  👁️ Con el fin de Agilizar el proceso de Limpieza se crean las funciones anteriores.
 
 
 </p>
@@ -144,9 +154,9 @@ Finalment, encontramos información redundante la cual no se requiere en el dash
 **3. Generación del DashBoard:**
 
 El Dashboard se generó en la herramienta :atom: PowerBI :atom:. 
-Inicialmente se suben los archivos fuente con PowerQuery, donde se hace un ajuste en el formato de los datos. 
-Se crean las relaciones entre tablas y la tabla calendario (jerarquia de fechas), dejandolos listos para ser modelados.
-
+Inicialmente se suben los archivos fuente con PowerQuery, donde se hace un ajuste en el formato de los datos.
+Ya en Power BI se crean las relaciones entre tablas, la tabla calendario (jerarquia de fechas), y la tabla de métricas, dejando la información lista para ser modelados.
+</p>
 En el dashboard se siguió el siguiente hilo conductor para su realización. Inicialmente se realiza una hoja de análisis para cada una de las variables seleccionadas. Finalmente se definen los 4 KPI y se resumen en una hoja inicial.
 </p>
 Hojas de Análisis de variables:
@@ -160,8 +170,20 @@ Hojas de Análisis de variables:
 </p>
 
 - **Hoja Dashboard KPI´s:** Se diseña en una hoja con el resumen del cumplimiento de la meta de los KPI´s anteriormente mencionados.
+</p>
+ La siguiente imagen presenta la hoja principal de indicadores.
+ 
+<img src ="/Imagenes/Grafica 3.png">
 
-👀 DISCLAIMER: 👀 
+Para cada KPI se muestra:
+
+- Nombre del Indicador
+- Tarjeta del KPI donde se presenta el valor relativo del cumplimiento Vs el objetivo.
+- Gráfico de Medidor del valor absoluto del indicador. En este se presenta el valor y la meta en la unidad inicial, por ejemplo número de conexiones, pesos, entre otros.
+- Grafica de tendencia del valor del KPI. Muestras para los 2 ultimos años (o los que se seleccionen en el slicer de la parte superior), el valor trimestre a trimestre del indicador.
+
+   </p>
+### 👀 Diseño de KPI´s: 👀 
 
 Los anteriores KPI se están calculando con la información del sector, y por tanto su utilidad sería la de monitorear el sector. 
 Para hacerlos aplicables a la compañía, requieren ser adaptados a las cifras propias de la compañía asi: 
@@ -173,9 +195,33 @@ Para hacerlos aplicables a la compañía, requieren ser adaptados a las cifras p
 - **Accesos por Fibra Optica:** En este indicador se requiere analizar la cantidad de accesos de los clientes de la compañia a través de la tecnología fibra optica. La estrategía se debe enfocar en reemplazar otras tecnologias, en clientes actuales o nuevos, por la de fibra óptica.
   </p>
 
- ## ANALISIS DE RESULTADOS Y CONCLUSIONES: 
- 
-<img src ="/Imagenes/Grafica 3.png">
+ ## ANALISIS Y CONCLUSIONES: 
+</p>
+
+**Penetración Hogares:**  </p>
+Cómo ya se mensionó en este documento, la penetració es el porcentaje de hogares o individuos que tienen acceso a internet en una determinada área geográfica. Se puede medir en términos de penetración en la población o en los hogares.
+En el caso de Argentina la penetración del servicio de internet por hogares tiene una tendencia constante al alza. En el 1er trimestre de 2024 alcanzó un total del 72,04 por cada 100 hogares o del 72,04% que es lo mismo. El incremento en el indicador para todo el 2023 fue del 1,07% frente a un 1,59% del 2022. Para el 2024 se espera alcanzar un 2% trimestral, sin embargo en el 1er trimestre el escenario nos es alentador ya que solo se logro un 0,05% de crecimiento.
+</p>
+<img src ="/Imagenes/Grafica Hogares.png">
+</p>
+
+**Penetración Población:** </p>
+El indicador de penetración medida en términos de población tiene una tendencia al alza un poco más marcada que la medida en términos de hogares, sin embargo en terminos porcentuales es mucho menor, para el 1er trimestre de 2024 alcanzó en Argentina un 20,1%. El crecimiento del indicador en el año 2023 fué de 1,31%.
+</p>
+<img src ="/Imagenes/Grafica Poblacion.png">
+</p>
+
+**Ingresos:** </p>
+Los Ingresos del sector en total para el año 2023 en Argentina ascendieron a 522,6 MM y para el primer trimestre de 2024 a 280,4 MM de pesos lo que presenta un buen pronóstico para el año. Las grandes perspectivas de crecimiento del sector son un alisciente para invertir en el mismo.
+La Meta del indicador se define conservadoramente en un 15% dada la gran dinámica del sector.
+</p>
+<img src ="/Imagenes/Grafica Ingresos.png">
+</p>
+
+**Accesos por Fibra Optica:** </p>
+Cómo ya se mensionó en este documento, se seleccionan las conexiones por fibra optica por su rápido crécimiento en los últimos años en Argentina, adicionalmente es una tecnologia que ofrece velocidades de conexión mucho más altas y estables en comparación con otras tecnologías como ADSL y Cable Modem. Para el año 2023 se dieron 7,6 millones de conecciones por fibra optica, en el 1er trimestre del 2024 fueron de 2,2 millones, valor que aunque decrece con respecto al 4to trimestre de 2023, presenta una muy buena perspectiva de crecimiento.
+<img src ="/Imagenes/Grafica FO.png">
+</p>
+</p>
 
 
-   </p>
