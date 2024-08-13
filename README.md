@@ -26,6 +26,7 @@ La información fuente es suministrada en el archivo de Excel  **`Internet.xlsx`
 </p>
 Como resultado se obtienen los siguientes Archivos (Disponibles en la carpeta /Data CSV):
 </p>
+
 - Acc_vel_loc_sinrangos.csv
 - Velocidad_sin_Rangos.csv
 - Velocidad % por prov.csv
@@ -40,6 +41,7 @@ Como resultado se obtienen los siguientes Archivos (Disponibles en la carpeta /D
 - Totales Accesos por velocidad.csv
 - Accesos por velocidad.csv
 - Ingresos.csv
+  
 </p>
 
 **1. Limpieza de Datos:** </p>
@@ -81,7 +83,19 @@ Para cada Dataframe se realiza los siguiente:
 
 Nota:  👁️ Con el fin de Agilizar el proceso de Limpieza se crean las funciones.
 </p>
-**2. EDA:**
+
+**2. Análisis de Datos (EDA):**
+</p>
+
+Para cada dataset se realiza un análisis gráfico. Los graficos se seleccionan de acuerdo con los datos a analizar. 
+Por ejemplo, para el dataset  **`data_Vel__sin_r`** que presenta la información sobre la velocidad de conexión a internet sin rangos específicos, se realizan las siguientes graficas:
+
+<img src ="//logo-henry-white-lg.png">
+
+
+De acuerdo con las características de cada variable, se realiza un
+
+
 
 **3. Generación del DashBoard:**
 
